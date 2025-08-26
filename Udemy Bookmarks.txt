@@ -471,6 +471,7 @@ Digital Skills 101 for Seniors & Vulnerable Adults
 Digital Transformation & Customer Experience Management CXM
 Diploma in Aviation, Airlines, Air Transportation & Airports
 Diploma in Digital Transformation and Operational Excellence
+Diploma of Microsoft Dynamics 365 CRM Business Architect
 Diploma: Human Resources, Compensation & Benefits Management
 Discover Effective Online Business Ideas
 Discover Google Gemini for Marketing Success
@@ -656,6 +657,7 @@ Google Cloud Generative AI Leader Practice Exams 2025
 Google Cloud Professional Cloud Architect: GCP Certification
 Google Cloud Professional Data Engineer PDE - Mock Exams
 Google My Business. How to Master Powerful Tool for Company
+GOOGLE Professional Cloud Architect PRACTICE EXAM 2025
 Google Sheets Bootcamp Boost Productivity Expert in Cloud
 Graphic Design AI: Graphic Design With AI Complete Course
 Graphic Design Masterclass Bootcamp from Beginner to Expert
@@ -846,6 +848,7 @@ Live Online Shop (Ecommerce) by ASP .NET Core 8 MVC and SQL
 Llama 4: AI Mastering Prompt Engineering
 LLM (Large Language Model) and Its Security [Hindi]
 Logo Design AI: Master Logo Design With AI (Logo Design A-Z)
+Logo Design Course in Adobe Illustrator: Bear Mascot Design
 Logo Design Essentials: Photoshop & Illustrator
 Lovable AI: Complete Guide for Vibe Coding
 Low-Level Computing for Computer Science & Engineering 2025+
@@ -937,6 +940,7 @@ Master Web Scraping in Python: Requests Scrapy Selenium & AI
 Masterclass YouTube UI/UX Design: Create Stunning Design
 Mastering Adobe Illustrator Projects: Build Your Portfolio
 Mastering Adobe Premiere Pro CC: From Beginner to Pro Editor
+Mastering Agentic Design Patterns with Hands-on Projects
 Mastering AI Agents Bootcamp: Build Smart Chatbots & Tools
 Mastering AI Agents with Lyzr Agent Studio : NoCode Platform
 Mastering AI on AWS: Training AWS Certified AI-Practitioner
@@ -1305,6 +1309,8 @@ SiteGround Migrator: Migra tu Web con WordPress a SiteGround
 SketchUp VRay Layout From Beginner to Advanced Course
 Sketchup with Lumion/V-ray- Full course- Step by Step
 Skills-Based Organizations: Build Agile, Future-Ready Teams
+SMART Goals Parenting
+Smartphone Detox for Kids: A 7-Day Family Challenge
 Social Media Graphics Design and Video Editing in Canva
 Social Media Graphics Design Masterclass with Adobe & Canva
 Social Media Marketing Course 2025: Meta Ads & Instagram ads
@@ -1496,6 +1502,7 @@ Write Article Content for SEO and Affiliate Marketing Course
 Write Every Day: Building a Consistent Writing Habit
 Xamarin Forms for Android and iOS Native Development
 Xero vs. Excel
+Your AI Agent for outstanding Customer capture & Conversion
 Your WORDS, Powerful Tools
 YouTube Automation Guide For Beginners: Earn Passive Income
 Youtube Masterclass With Video Editing and Graphics Design

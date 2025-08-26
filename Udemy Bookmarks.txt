@@ -454,6 +454,7 @@ Developing successful Professional Relationships
 DevOps MasterClass: Terraform Kubernetes Ansible Docker
 Dieting - Nutrition -Weight Loss Tips for Good Healthy Life
 Digital Forensics Masterclass :Computer Forensics DFMC+ DFIR
+Digital Forensics Masterclass Complete Computer Forensics
 Digital Marketing & Social Media Strategy Free Course 2025
 Digital Marketing Agency: Grow Your Agency with Dekker
 Digital Marketing B2B: Dekker's Ultimate Digital Marketing
@@ -1352,6 +1353,7 @@ The Advanced Diploma In Business Strategies: Strategize Well
 The AI-Powered Digital Marketing & Digital Advertising Guide
 The Art & Science of Accounting: From Basics to Forensics
 The Automated eBay Dropshipping Blueprint
+The Beginner's Guide to Bash Scripting and Automation
 The Beginners Guide to WordPress Theme Development 2025
 The Best ChatGPT & AI Course: Make Money With AI
 The Best Passive Income Business To Start
@@ -1421,6 +1423,7 @@ Time Management to Sell More And Earn more
 Todo App Project: Learn JavaScript, HTML & CSS Step by Step
 Top 100 Interesting Bugs Ethical Hacking & Bug Bounty Part 2
 Trading Options For Consistent Returns: Options Basics
+Train the Trainer: Corporate Learning & Facilitation [EN]
 Transform Your Photos with Adobe Lightroom & Photoshop
 Twitter absolute basics
 UI Projects for Portfolio

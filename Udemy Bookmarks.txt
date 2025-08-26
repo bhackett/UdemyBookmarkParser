@@ -75,6 +75,7 @@ Advanced Program in Product & CX Management and Development
 Advanced Project Management: Strategies for Success
 Advanced Python Automation for Excel and Accounting
 Advanced RPA - Microsoft Power Automate With AI Builder
+Advanced Scrum Master: Coach Like ICP-ACC, Lead Beyond A-CSM
 Advanced Shopify Dropshipping
 Advanced strategy development for Crypto with Python
 Advanced Supply Chain: Master Optimisation & AI Strategies
@@ -85,6 +86,7 @@ After Effects Motion Graphics Mastery (For TikTok, IG & YT)
 Agentic AI Playbook: Complete Guide for Tech Leaders
 Agile Basics for Developers, Scrum Masters & Product Owners
 Agile Coach Certification
+Agile HR Certification: Modern Human Resource Practices
 Agile HR Implementation
 Agile Mindset & Adaptability: The Complete Guide to XP
 Agile Project Management: Agile, Scrum, Kanban & XP
@@ -116,6 +118,7 @@ AI for Risk Management & Compliance Excellence
 AI for Technical Writers for Better Documentation
 AI for Work: Introduction to AI and Enhancing Productivity
 AI Foundations & Online Business Models | CPD Accredited
+AI HR Artificial Intelligence ChatGPT Human Resources [EN]
 AI Masteclass - ChatGPT Gemini Midjourney Stable Diffusion
 AI Mastery Bootcamp: Complete Guide with 1000 Projects
 AI Product Manager Explorer Certificate
@@ -146,6 +149,7 @@ Algorithm Alchemy: Unlocking the Secrets of Machine Learning
 All in one Adobe Photoshop- Beginner to Professional course
 All-in-One 2025 Course: SEO, Paid Ads, GTM, Web Dev, Content
 Altcoin Crypto ( Master Class ) Bull Run or Bear Market
+Amazon FBA Guide: From Zero to Seller
 Amazon Virtual Assistant for Sellers • Full Course [2025]
 Android App Development Bootcamp : Kotlin | Certificated+
 Android app development: displaying images from the internet
@@ -199,6 +203,7 @@ Bitcoin Breakthrough Secrets | Complete Cryptocurrency Guide
 Blender 4 Essentials: 3D Modeling, Texturing, and Rendering
 Blender Essential: From Beginner to 3D Masterclass
 Blockchain 101 Beginners Free Course Bootcamp Cryptocurrency
+Blockchain Masterclass Solidity Foundry-Smart Contract 2025
 Blockchain Money : How To Make Money Running Blockchain Node
 Blogging and Influencer Marketing
 Blue Prism Foundation Course Step By Step
@@ -244,7 +249,9 @@ Burp Suite: In Depth Survival Guide
 Business Administration
 Business Analysis
 Business Data Analysis: The Strategic Thinking Masterclass
+Business Development, Sales & Marketing Professional Diploma
 Business Ideas Generation & Selection for successful startup
+Business Intelligence: Data-Driven Decision Making
 Business Process Optimization with Lean Six Sigma
 Business Strategy & Innovation Frameworks
 C, C++, PHP & Java: Complete Guide to Modern Programming
@@ -279,12 +286,18 @@ Certificate in Public Relations and Communication Management
 Certificate of Leadership Excellence in Business Management
 Certified AI Engineering Masterclass: From Zero to AI Hero
 Certified AI Marketing Professional | AI Content Creation
+Certified Brand Strategy: Build, Position & Elevate Brand
+Certified Business Analyst: Tools, Techniques & Frameworks
 Certified Chief AI Officer Program: AI Strategy & Governance
 Certified Chief Technology Officer(CTO) Mastery Program
 Certified eCommerce Management Professional | CPD Accredited
 Certified Kubernetes Application Developer | CKAD Exam 2025
 Certified Loan Professional for Real Estate​
+Certified Negotiation Professional: Advanced Business Skills
+Certified Operations Manager: From Strategy to Execution
 Certified Professional Data Science through Practice Test
+Certified Social Media Marketing: Fundamentals to Campaigns
+Certified Time Management: Productivity & Focus Mastery
 Chatbot Creation with Generative AI: A Practical Guide
 Chatfuel: The Complete Guide to Messenger Bots for Business
 ChatGPT : The Complete Bootcamp for Beginner With Practical
@@ -444,6 +457,7 @@ Digital Forensics Masterclass :Computer Forensics DFMC+ DFIR
 Digital Marketing & Social Media Strategy Free Course 2025
 Digital Marketing Agency: Grow Your Agency with Dekker
 Digital Marketing B2B: Dekker's Ultimate Digital Marketing
+Digital Marketing Certification: SEO, Google Ads & Social
 Digital Marketing Diploma - 35 courses in 1 SEO, Ads & AI
 Digital Marketing for Authors- Branding via Blog commenting
 Digital Marketing For Entrepreneurs - A Complete Course
@@ -451,6 +465,7 @@ Digital Marketing for Plumbers | Plumbing Marketing
 Digital Marketing Foundation CDMA | CDMP Pathway Essentials
 Digital Marketing Strategy & Tactics with Dekker
 Digital Marketing Tools for Freelancing - 2025
+Digital Platforms and Ecosystems Business and Partnership
 Digital Skills 101 for Seniors & Vulnerable Adults
 Digital Transformation & Customer Experience Management CXM
 Diploma in Aviation, Airlines, Air Transportation & Airports
@@ -459,6 +474,7 @@ Diploma: Human Resources, Compensation & Benefits Management
 Discover Effective Online Business Ideas
 Discover Google Gemini for Marketing Success
 Discover Web Application Security Issues using Burp Proxy
+Discover Your Career Path & Land a Job You Love in 12 Weeks
 Disruptive Brand Building
 Diversity Equity Inclusion Building Inclusive Workplaces
 Django 5 - Build a Complete Website from Scratch to Deploy
@@ -475,9 +491,12 @@ Easy Generative AI ChatGPT Deepseek and +100 AI Tools
 Effective Cold Email Outreach: From Strategy to Execution
 Email Marketing. Increase Sales With Email Marketing!
 Emotional Intelligence & Mindfulness for Leaders
+Emotional Intelligence: Personal & Professional Excellence
 Empathy and Emotional Intelligence for Project Managers
 Employee CyberSecurity Awareness First Line of Defense
+Entrepreneurship and Business Essentials
 Entrepreneurship and Business Motivation
+Entrepreneurship: Ideas, Market Analysis, Competitors, Place
 ESP32 Email Alert Based on Sensors Reading
 Essential Adobe Lightroom Course for Photo Editing
 Essential Amazon Affiliate Marketing for Beginners
@@ -557,11 +576,14 @@ Feature Engineering For Machine Learning 101
 Figma AI Workflow: From Vision to Version
 Figma for User Interface and User Experience UIUX Design
 Figma UI/UX Project Course: Design 4 Apps and Get Job Ready
+Finance Essentials for Non-Financial Managers – Executive
 Financial Accounting & Bookkeeping: Beginners to Advanced.
 Financial Analytics: Financial Analysis with Excel & Tableau
+Financial Services - Basics of Regulation & Compliance
 Financial Services - Funds Flow Optimization Concepts
 Financial Services - Understanding Interest Rates
 Financial Statement Analysis – Ratio Analysis
+Financial Stewardship for Decision Makers and Leaders
 Finishing a Manuscript in 60 Days
 Fiverr Success Secrets Blueprint From Beginner to Top Seller
 Flask Hacking Mastery
@@ -639,6 +661,7 @@ Graphic Design Masterclass Bootcamp from Beginner to Expert
 Graphic Design Masterclass: Master Illustrator & Photoshop
 Graphic design: Designing 4 Advertisements in a series!
 Grow Your Sales With Conversion Rate Optimization (CRO)
+Growth Hacking Certification for Startups: Scale Smarter
 GSAP Web Development and Animation Mastery
 Hands On Python Data Science - Data Science Bootcamp
 Hands On React JS From Beginner to Expert
@@ -667,6 +690,7 @@ How to make GIMP 2.8 look and act as Photoshop
 How to Make Passive Income without experience or a Website
 How to speak to anyone & be fearless - in less than 55 min
 How to Transition to Product Management (And Succeed)
+HR Trends 2025-2030: Future Strategies & Innovations [EN]
 HR with Odoo 17 AI-Powered Policies and Procedures Manual
 HTML 5 With Quizzes And Python 3 Complete Course
 HTML 5,Python,Flask Framework All In One Complete Course
@@ -675,6 +699,9 @@ HTML to React Template Convert: Full Complete Guided Project
 HTML, CSS & Python – Web Development Certification Course
 HTML5 CSS3 JavaScript Bootstrap & jQuery Masterclass 5 in 1
 Human Resources Expert: Employee Relations and Engagement
+HVAC Design Course - HVAC Engineering & Manual Duct Design
+HVAC Design MASTERY Course: HVAC Air Distribution Design A-Z
+HVAC Troubleshooting PRO: HVAC Maintenance & HVAC Diagnosis
 Hybrid Work Superstar: Thrive in Remote & Office Like a Pro
 Implement Data Governance Step by Step
 Implement GRC (Governance, Risk, Compliance) Step by Step
@@ -688,6 +715,7 @@ Instagram Marketing: Making Money On Instagram For Beginners
 Instagram Marketing. How to Promote Your Business!
 Intentional Leadership
 Interface Windows User Commands From The Beginner To Admin
+Interior Design 103: Interior Design & Lighting Design (A-Z)
 Internal Auditing: Principles, Practices, and Applications
 Internet of Things (IoT) Online Course
 Interpersonal Dynamics Coaching – Conflict Management for HR
@@ -700,6 +728,7 @@ Introduction to Risk Management - Decision Makers & Leaders
 Introduction to TDD in C#
 Introduction to Value Investing in Crypto
 Invest in Real Estate I Airbnb Hosting I Arbitrage Airbnb
+Investing & Options: From Basics to Mastery
 InVision Studio for UI Designers
 IP Addressing and Subnetting - Hands-on Learning Approach
 ISO 14001:2015 Lead Auditor
@@ -752,9 +781,11 @@ Launch Your Dream Business & Creative Career
 Launching Your First Etsy Shop | A Beginner's Crash Course!
 Lead Generation & Business Development with Dekker
 Leadership for Successful Project Management and Delivery
+Leadership Skills: Servant Situational Leadership Style [EN]
 Leadership Through Tough Times
 Lean Manufacturing Academy: Certified Master Lean Course.
 Lean Problem Solving: Creative Solutions for Teams & Leaders
+Lean Six Sigma Certification: Business Process Improvement
 Learn Adobe After Effect with Motion Graphics and Animation
 Learn Advanced Excel: Formulas, Functions, VBA Macros
 Learn Advanced SEO From Scratch,Complete SEO Training Course
@@ -782,6 +813,7 @@ Learn HTML & CSS From Scratch! The Beginners Guide
 Learn JavaScript by Creating 10 Practical Projects
 Learn On-Page SEO Methods of the Pros
 Learn PHP and MySQL for Web Application and Web Development
+Learn PHP Programming: Create Dynamic Websites with MYSQL
 Learn Portrait, Beauty, and Outdoor Retouching Techniques
 Learn Python from a University Professor
 Learn Python Programming Masterclass: Python 3 in 2025
@@ -808,8 +840,10 @@ Linux Security & Network Hardening: Practical Defense
 Linux Security Basics for Beginners
 Lit Up Brand: Creating a Purposeful Brand
 Live Accounting App by C# .NET Core in Windows Forms and SQL
+Live Master Email Security Spot Phishing & Spam Fast 2025
 Live Online Shop (Ecommerce) by ASP .NET Core 8 MVC and SQL
 Llama 4: AI Mastering Prompt Engineering
+LLM (Large Language Model) and Its Security [Hindi]
 Logo Design AI: Master Logo Design With AI (Logo Design A-Z)
 Logo Design Essentials: Photoshop & Illustrator
 Lovable AI: Complete Guide for Vibe Coding
@@ -828,6 +862,7 @@ Management Consulting Essential Training 2025
 Management Consulting Presentation Essential Training 2025
 Management Consulting Skills Mastery 2025
 Managing project risks: safely
+Managing Social Anxiety in the Workplace
 Market Research & Competitive Analysis Executive Certificate
 Market Research: Dekker's Complete Marketing Research Course
 Marketing & Customer Experience Management CXM Excellence
@@ -875,9 +910,11 @@ Master in Systems Thinking
 Master in Talent Acquisition by Skilled Interview Taking
 Master Java Visually: A Complete A-Z Bootcamp for Beginners
 Master JavaScript, HTML, and CSS with 30 Projects in 30 Days
+Master Landscape Photo Editing From Scratch
 Master Lead Generation: Grow Subscribers & Sales with Popups
 Master Logo Design with Photoshop Illustrator Zero to Pro
 Master Marketing Automation with Microsoft Copilot
+Master Marketing Data Visualization & Insights Dashboard
 Master Microsoft Power BI in 21 Days
 Master Microsoft POWER QUERY in POWER BI & Excel (ETL Tool)
 Master Mobile Photography: Learn to Edit Photos with iPhone
@@ -1024,6 +1061,8 @@ Oracle Java SE 21 Developer Professional: 1Z0-830
 Passive Income: Pinterest Affiliate Marketing Masterclass
 Pentesting 101: The Ultimate Hacking Guide Start To Finish
 Pentesting GenAI LLM models: Securing Large Language Models
+People Management People Manager Qualification SHRM PMQ [EN]
+People Partner HR certification program for future HRBP [EN]
 Perplexity & No-Code : Créez une app Full Stack 100% (2025)
 Perplexity AI for Marketing & Business Automation
 Personal Branding System 3.0: UNIQUE Secret for YOUR Success
@@ -1059,6 +1098,7 @@ Postgraduate Diploma in Capital Market (PGDCM)
 Postgraduate Diploma in Supply Chain Engineering Management
 PostgreSQL and MS SQL for Beginners
 PostgreSQL and Oracle SQL for beginners
+PostgreSQL for Developers: Design, Query & Scale Databases
 PostgreSQL for the Absolute Beginners - Hands-On
 Power Apps 101 (Microsoft Power Apps For Quick Development)
 Power BI 101 - Microsoft Power BI Essentials & Certification
@@ -1095,6 +1135,7 @@ Product Owner Certification
 Product Vision and Feature Prioritization for Startups
 Productivity - Focus, Concentration & Performance Strategies
 Professional Adobe Photoshop CC Course With Advance Training
+Professional Agile Methodology Certification
 Professional Certificate in Coaching
 Professional Certificate in Customer Experience Management
 Professional Certificate in DevOps
@@ -1251,6 +1292,7 @@ SEO Terminology
 SEO Training
 SEO Tricks and Hacks: Making Search Engines Work for You.
 Service Level Agreement Step by Step
+SET THEORY
 Shopify Aliexpress Dropship Crash Course - Start Selling Now
 Shopify Course For Beginners: Creating A Store From Scratch
 Shopify Crash Course: Build Your Dropshipping & POD Store
@@ -1280,12 +1322,14 @@ SPSS: A Practical Guide to Data Analysis
 SQL & Power BI Masterclass: From Data to Dashboard
 SQL Bootcamp with MySQL, PHP & Python : 5 Courses in 1
 SQL HackerRank Challenge: Get Gold star & 670 points
+SQL Masterclass: From Absolute Beginner to Developer
 SQLMap From Scratch for Ethical Hackers
 Start Career in CyberSecurity - The Ultimate Guide
 Start Your AI-Driven Video Content Agency: ChatGPT & InVideo
 Statistics and data literacy for non-statisticians
 Statistics and Hypothesis Testing for Data science
 Strategic Human Resource Management (SHRM) Certification
+Strategic Management & Business Planning – Certification
 Strategic Partnerships and Collaborations
 Strategic Product Development: A Practical Guide to Research
 Supercourse - Ultimate Advanced Kubernetes Bootcamp
@@ -1314,6 +1358,7 @@ The Best Passive Income Business To Start
 The Certified Global CEO Masterclass: Leading at the Top
 The Complete Android & Kotlin App Development A-Z Bootcamp
 The Complete B2B Sales Course: Lead Generation to Closing
+The Complete C Programming Course for Basic to Expert
 The Complete CapCut Course with Social Media Video Editing
 The Complete ChatGPT Guide From Zero to Hero - 2025
 The Complete Contracts and Suppliers Management Master Class
@@ -1347,6 +1392,7 @@ The Leadership Accelerator
 The Leadership Blueprint: Navigate Change and Inspire Teams
 The Leveraged Coach
 The MERN Stack Blogify Project: Web Development
+The Modern JavaScript Course: Build Interactive Websites
 The Motivation Blueprint – Daily Habits for Success & Focus
 The New Level. Millionaire`s vision. (Week 1) FREE
 The NIST Privacy Framework: A Step by Step Implementation
@@ -1397,6 +1443,7 @@ Understand and Evaluate Digital Marketing Channels
 Understanding AI for Beginners: The Essential Guide to AI
 Understanding by Creating a Simple React App from Scratch
 Unity Game Development: 2D & 3D Essentials for Beginners
+Unleash Your Creative Mind
 Unlimited AI Content Machine : Build Your Own AI Clone/Twin
 Unlock Your Potential: Exploring the Power of Chat GPT
 Unlocking Grok: AI for Business and Marketing
@@ -1422,6 +1469,7 @@ Web Development Bootcamp | Python Django Web Course
 Web Development Bootcamp with HTML CSS PHP MySQL Wordpress
 Web Hacking For Beginners
 Web3 & Cryptocurrency Market analysing Tool Using WordPress
+Web3 And Blockchain Security:Pen Testing & Bug Bounty Part1
 Webflow for Beginners: Create Your First Website
 Webservices API Testing with Postman - Complete Guide
 Website Testing Masterclass: Real Test Cases for QA Success
@@ -1439,14 +1487,18 @@ WordPress page speed - get your site to load in < 2 seconds
 WordPress SEO Made Easy: Step-by-Step Guide for Beginners
 Wordpress Web Development for Absolute Beginner Zero to Hero
 Workplace Productivity - Supporting Others Through Change
+Workplace Productivity-Coping with the Anxiety of Leadership
+Workplace Stress Management Strategies
 Write Article Content for SEO and Affiliate Marketing Course
 Write Every Day: Building a Consistent Writing Habit
 Xamarin Forms for Android and iOS Native Development
 Xero vs. Excel
+Your WORDS, Powerful Tools
 YouTube Automation Guide For Beginners: Earn Passive Income
 Youtube Masterclass With Video Editing and Graphics Design
 YouTube Mastery Course with AI 2025: Rank, Grow & Monetize
 Youtube SEO Course From Basic To Advance
+YouTube Startrack For Beginners: Launch Your Channel Today
 Zapier 101 | The Ultimate Automation Course for Beginners!
 Zero to Hero in Cybersecurity and Ethical Hacking
 Zero to Hero in LangChain: Build GenAI apps using LangChain

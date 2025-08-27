@@ -21,6 +21,7 @@
 30 Days of Angular: Build 30 Projects with Angular
 30 HTML CSS & JavaScript Projects A Beginner's Guide to JS
 300+ Python Exercises (Simple, Intermediate & Complex)
+360 Degree Feedback Competency Assessment Full HR Guide [EN]
 39 Travel Tips to Make Your Travel More Enjoyable - 1 Hour
 49 Weight Loss Tips You Can Stick To Forever - Be Thinner
 5 Step Blueprint For Author Platform Success
@@ -65,6 +66,7 @@ Advanced Excel Course With Shortcuts Tips and Tricks for JOB
 Advanced Excel: Power Query, Power Pivot and DAX
 Advanced Instagram Marketing Blueprint Complete Guide
 Advanced IT Troubleshooting for Helpdesk Support Technicians
+Advanced OSINT: Find Anything, Search & Investigate [EN]
 Advanced Power BI: Expert Data Analysis and Visualization
 Advanced PowerPoint Masterclass for Professionals
 Advanced Professional Photoshop Course to Become Expert
@@ -101,6 +103,7 @@ AI Agents for Everyone & AI Bootcamp with 100 Hands-on Labs
 AI Agents with n8n: Create Automated Content for Your Site
 AI Audio Editing Masterclass: Adobe Podcast for Pro Audio
 AI Bible: From Beginner to Builder in 100 Projects
+AI Chatbots & Virtual Agents (Build AI Chatbots in Minutes)
 AI Course Creation Guide: Creating an Online Course Using AI
 AI Development with Qwen 2.5 & Ollama: Build AI Apps Locally
 AI Digital Marketing: Master SEO, Ads & Sales
@@ -119,6 +122,7 @@ AI for Risk Management & Compliance Excellence
 AI for Technical Writers for Better Documentation
 AI for Work: Introduction to AI and Enhancing Productivity
 AI Foundations & Online Business Models | CPD Accredited
+AI Hero: A 12-Month Journey Taking You from Zero to Expert
 AI HR Artificial Intelligence ChatGPT Human Resources [EN]
 AI Masteclass - ChatGPT Gemini Midjourney Stable Diffusion
 AI Mastery Bootcamp: Complete Guide with 1000 Projects
@@ -132,6 +136,7 @@ AI-assisted Android App Development - Gen AI (Vibe Coding)
 AI-Driven Infrastructure as Code (IaC) and Cloud Automation
 AI-Driven Market Analysis & Prediction
 AI-Enhanced Photo Editing: From Beginner to Pro
+AI-Enhanced Remote Management for Virtual Assistants (VA's)
 AI-Powered Algorithmic Trading: Build using LSTM Model
 AI-Powered Content Marketing: Master ChatGPT, SEO & Strategy
 AI-Powered Customer Experience (CX)
@@ -165,6 +170,7 @@ Application Success: Master Project Writing with ChatGPT
 Architecting Software: Modeling, Viewpoints, C4
 Artificial General Intelligence (AGI)
 Artificial Intelligence and Generative AI: Volume 1
+Artificial Intelligence In Digital Marketing For Beginners
 Atlassian Confluence A-Z: Confluence for New Users
 Audio Proccessing |Audio Automation with Python Programming
 Audit - Financial Statement
@@ -194,6 +200,7 @@ Be an Airbnb Entrepreneur, Rental Arbitrage & Experiences
 Become a Hydra Expert: Advanced Brute Forcing Techniques
 Become a Power BI Expert: Data Analysis, DAX, and Dashboards
 Become a Successful Software Programming Developer/ Engineer
+Become Digital Electronics Master
 Become Experts in Python | By Exercises | By Projects
 Beginner Tutorial on Solo Ads
 Beginners Bootcamp | HTML CSS Coding for Website Development
@@ -201,6 +208,7 @@ Beginners Course on Power BI with Azure DevOps (ADO)
 Best Online Video Editor InVideo : 5+ Real World Projects
 Better virtual meetings
 Big Data Hadoop Course
+Big Employee Evaluation course: all types of Appraisal [EN]
 Bitcoin Breakthrough Secrets | Complete Cryptocurrency Guide
 Blender 4 Essentials: 3D Modeling, Texturing, and Rendering
 Blender Essential: From Beginner to 3D Masterclass
@@ -210,6 +218,7 @@ Blockchain Money : How To Make Money Running Blockchain Node
 Blogging and Influencer Marketing
 Blue Prism Foundation Course Step By Step
 Blueprint For Successful Microservices & API Implementation
+BMS - Building Management System Fundamentals & Essentials
 Body Language & Non-Verbal Communication for Leaders
 Bootstrap 4 Quick Start: Code Modern Responsive Websites
 Bootstrap Mastery: Build Responsive Websites Like a Pro
@@ -292,6 +301,7 @@ Certified Brand Strategy: Build, Position & Elevate Brand
 Certified Business Analyst: Tools, Techniques & Frameworks
 Certified Chief AI Officer Program: AI Strategy & Governance
 Certified Chief Technology Officer(CTO) Mastery Program
+Certified Data Engineering Foundation Course
 Certified eCommerce Management Professional | CPD Accredited
 Certified Kubernetes Application Developer | CKAD Exam 2025
 Certified Loan Professional for Real Estate​
@@ -300,6 +310,7 @@ Certified Operations Manager: From Strategy to Execution
 Certified Professional Data Science through Practice Test
 Certified Social Media Marketing: Fundamentals to Campaigns
 Certified Time Management: Productivity & Focus Mastery
+Change your Brain: Create an Excellent Life
 Chatbot Creation with Generative AI: A Practical Guide
 Chatfuel: The Complete Guide to Messenger Bots for Business
 ChatGPT : The Complete Bootcamp for Beginner With Practical
@@ -316,6 +327,7 @@ ChatGPT in 30 Minutes: NEW Prompt Engineering & AI Skills
 ChatGPT Marketing: Create Complete Campaigns w/ Chat GPT AI
 ChatGPT Masterclass: The Guide to AI & Prompt Engineering
 ChatGPT Prompt Engineering: 70,000+ Prompts | Generative AI
+ChatGPT to 10X Office Productivity & Personal Productivity
 ChatGPT, DeepSeek, Grok and 30+ More AI Marketing Assistants
 Chief Executive Officer (CEO) Program
 CI/CD with Jenkins and Docker
@@ -327,6 +339,7 @@ Code Reviews for Secure, Clean, and Scalable Code
 Cold Email Mastery with AI: Ultimate Lead Generation System
 Communicating Effectively Using the POETIC Framework
 Communicating Through Disagreement Master Class
+Competency Skill Model Development Approach and Library [EN]
 Complete Advanced Canva for Video Editing for Social Media
 Complete Arduino Course For Beginners
 Complete Basics of WordPress Web Design and Web Development
@@ -415,6 +428,7 @@ Cybersecurity Mastery: Malware & Hacking Techniques
 Cybersecurity Solution Architecture 201 (2025 Edition)
 Cybersecurity Solution Architecture 301 (2025 Edition)
 Cybersecurity: Vulnerability Assessment & Pen Testing (VAPT)
+DALL-E 101: A Comprehensive Guide to Creating Art with AI
 Dart and Flutter: The Ultimate Mobile App Development Course
 Dart Mastery - Become a Dart Master From Zero to Hero
 Dashboard Reporting in Microsoft Excel (Tips & Tricks)
@@ -494,8 +508,10 @@ E-Commerce Complete • Run Your Online Business [2025]
 E-Commerce Website Masterclass: Master Shopify & WordPress
 Easy Generative AI ChatGPT Deepseek and +100 AI Tools
 Effective Cold Email Outreach: From Strategy to Execution
+Effective Email Marketing Tips and Guides For Beginners
 Email Marketing. Increase Sales With Email Marketing!
 Emotional Intelligence & Mindfulness for Leaders
+Emotional Intelligence in Leadership
 Emotional Intelligence: Personal & Professional Excellence
 Empathy and Emotional Intelligence for Project Managers
 Employee CyberSecurity Awareness First Line of Defense
@@ -590,6 +606,7 @@ Financial Services - Understanding Interest Rates
 Financial Statement Analysis – Ratio Analysis
 Financial Stewardship for Decision Makers and Leaders
 Finishing a Manuscript in 60 Days
+Fitness Mastery: Complete Fitness Course & Fitness Program
 Fiverr Success Secrets Blueprint From Beginner to Top Seller
 Flask Hacking Mastery
 Flexible Budgets, Standard Costs, & Variance Analysis
@@ -696,6 +713,7 @@ How to make GIMP 2.8 look and act as Photoshop
 How to Make Passive Income without experience or a Website
 How to speak to anyone & be fearless - in less than 55 min
 How to Transition to Product Management (And Succeed)
+HR Agile Project Management: Strategy, Speed, Results [EN]
 HR Trends 2025-2030: Future Strategies & Innovations [EN]
 HR with Odoo 17 AI-Powered Policies and Procedures Manual
 HTML 5 With Quizzes And Python 3 Complete Course
@@ -770,6 +788,7 @@ JavaScript Mastery From Basics to Advanced 2025
 Javascript Practicals Crash Course
 JavaScript Projects Course Build 20 Projects in 20 Days
 Jira Agile Mastery: Real-Life Examples for Scrum Masters
+Journalism: Conduct Great Media Interviews
 jQuery - Complete jQuery Course From Beginner To Advanced
 JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD
 Kali Linux for Ethical Hackers
@@ -993,6 +1012,7 @@ Mastering React and Node.js Firebase Authentication [2025]
 Mastering React: React Crash Course with Mini Projects
 Mastering SAP Analytics Cloud (SAC) – Basics to Planning
 Mastering SEO With ChatGPT: Ultimate Beginner's Guide
+Mastering SEO: From Beginner to Pro in Digital Marketing
 Mastering Social Media in the Age of Gen AI
 Mastering Social Media Marketing and Management
 Mastering Social Media Marketing: A Comprehensive Guide
@@ -1036,6 +1056,7 @@ Midjourney For Beginners: Creating Visuals Using AI
 Mistral AI Development: AI with Mistral, LangChain & Ollama
 Mobile App Design in Figma: From Concept to Prototype
 Mockplus RP - Kickstart Your Next Project with Templates
+Modern Vlogging Guide | How to Become a Successful Vlogger
 MS Excel Automation | Excel Data Analysis with Python
 MS Excel Masterclass for Job Seekers Accounting Success
 MS Word - Microsoft Word Course Beginner to Expert
@@ -1052,6 +1073,7 @@ NMAP Mastery: Ultimate Guide to Network Scanning
 No & Low Code AI Marketing Automation
 Nodejs: All You Need to Know with Practical Project
 NotebookLM Mastery: Organize, Analyze, and Optimize with AI
+Number Theory (Unvisited applications in the Real World)
 NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning
 Object Detection & Image Classification with Pytorch & SSD
 Object Oriented Programming in C++ & Interview Preparation
@@ -1119,6 +1141,7 @@ Power Pages - A Complete Guide to Microsoft Power Pages
 PowerBI Zero to Hero
 Powerful Instagram Sales Funnel to Grow Your Business
 PowerPoint Business Presentations with ChatGPT Generative AI
+PowerPoint Presentations: Deliver a Non-Boring Presentation
 Practical HTML, CSS, JS: 10 Real-World Projects for Practice
 Practical IoT Security and Penetration testing for Beginners
 Practical Kubernetes Guide
@@ -1126,6 +1149,7 @@ Practical Malware Analysis for Beginners
 Practical SQL: Query & Manage Databases
 Predictive Prospecting: Practical Sales Techniques
 Presentation Expert: AI & GPT, Pitch Decks, Business Speech
+Presentation Skills 101: Presentation Skills Complete Course
 Presentation Skills Training: Great One on One Presentations
 Presentations using Gen AI
 Presentations with ChatGPT
@@ -1193,6 +1217,8 @@ Project Management- Waterfall & Agile
 Project Management: Choosing & Implementing the Right Tools
 Project Management+Deliver on Time + Scrum Project Delivery
 Prometheus MasterClass: Infra Monitoring & Alerting
+Prompt Engineering PRO (AI Prompt Engineering FAST-TRACK)
+Public Speaking 101: Public Speaking COMPLETE Course (A-Z)
 Public Speaking and Presentation Skills Masterclass
 Public Speaking for College Students: Become a Great Speaker
 Public Speaking for High School Students: Speak Well Now
@@ -1275,6 +1301,7 @@ Revenue Cycle Management in Medical Billing (Accredited)
 Reverse Engineering Bootcamp:Ghidra, IDA, Linux, and x86_64
 Revit Mass Modeling- From Basic to Advanced level
 Revolutionizing UML Design with ChatGPT and PlantUML
+Rewrite Your Reality: 10x Your Writing Skills Effortlessly
 Robot Framework | Step-by-Step for Beginners
 Rust Programming Bootcamp - 100 Projects in 100 Days
 SaaS Marketing with Dekker: SaaS Startup Lead Generation
@@ -1409,6 +1436,7 @@ The MERN Stack Blogify Project: Web Development
 The Modern JavaScript Course: Build Interactive Websites
 The Motivation Blueprint – Daily Habits for Success & Focus
 The New Level. Millionaire`s vision. (Week 1) FREE
+The NIST Incident Management A Step-by-Step Guide
 The NIST Privacy Framework: A Step by Step Implementation
 The Obvious Secrets To Success No One Knows
 The Optimum Introduction to Ethical Hacking
@@ -1461,8 +1489,10 @@ Understanding by Creating a Simple React App from Scratch
 Unity Game Development: 2D & 3D Essentials for Beginners
 Unleash Your Creative Mind
 Unlimited AI Content Machine : Build Your Own AI Clone/Twin
+Unlock the Secrets of Polynomials: Command On Algebra inside
 Unlock Your Potential: Exploring the Power of Chat GPT
 Unlocking Grok: AI for Business and Marketing
+Unlocking Inverse Trigonometry: Mastering From Scratch (WOW)
 UPDATED | Learn Advanced Python Programming | 5 Projects
 Upgrade Your Social Media Presence with ChatGPT
 Upwork Beginner Course: Win Freelance World
@@ -1484,6 +1514,7 @@ Web Design Course with HTML CSS and Wordpress
 Web Development Bootcamp | Python Django Web Course
 Web Development Bootcamp with HTML CSS PHP MySQL Wordpress
 Web Hacking For Beginners
+Web Project Workshop: 20+ HTML & CSS Projects in Action
 Web3 & Cryptocurrency Market analysing Tool Using WordPress
 Web3 And Blockchain Security:Pen Testing & Bug Bounty Part1
 Webflow for Beginners: Create Your First Website

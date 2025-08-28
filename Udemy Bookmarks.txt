@@ -237,6 +237,7 @@ Build a Backend REST API with Node JS from Scratch
 Build a Complete JQuery Plugin
 Build a Quiz App with Java on Android Studio Beginner Course
 Build a Robust RESTful API with PHP 8, from Scratch!
+Build a Tic Tac Toe Game Using JavaScript, HTML & CSS
 Build a User Web App from Scratch with Vanilla PHP 8+
 Build a Website That Ranks and Converts - with E-E-A-T.
 Build AI Call Assistants: AI Automation Agency with No-Code
@@ -600,6 +601,7 @@ Fast C# by Windows Forms - Create Windows Apps, SQL in C#
 Fast RESTful Api in ASP .Net Core 9 For Absolute beginners
 Fast Windows Presentation Foundation WPF for Beginners
 Feature Engineering For Machine Learning 101
+FigJam Mastery: From Visual Brainstorms to Product Launches
 Figma AI Workflow: From Vision to Version
 Figma for User Interface and User Experience UIUX Design
 Figma UI/UX Project Course: Design 4 Apps and Get Job Ready
@@ -753,6 +755,7 @@ Interviewing Skills: Conducting Job Interviews
 Introducing MLOps: From Model Development to Deployment (AI)
 Introduction to Algorithms and Data structures in C++
 Introduction to Financial Controls
+Introduction to Generative AI with Amazon Bedrock
 Introduction to Human Resources Management
 Introduction to Risk Management - Decision Makers & Leaders
 Introduction to TDD in C#
@@ -910,6 +913,7 @@ Master AI Tools in 2025: ChatGPT, Midjourney, Gemini Firefly
 Master AI Voice Agents: Automate Calls with AI and No-Code
 Master Android by Building 3 Applications in Kotlin Language
 Master Ansible: Automation & DevOps with Real Projects 2025
+Master Any Language with ChatGPT: Boost Your Language Skills
 Master BI, SSIS, SSRS, SSAS & MDX - Zero to Hero
 Master Business Analysis to become a Business Analyst
 Master Business English for Successful Networking Skills !
@@ -1115,6 +1119,7 @@ pfSense: Network Security and Firewall Management
 Photoshop AI for creatives: guide to generative tools
 Photoshop cc course from a-z beginners (Basics) to master
 Photoshop for Web Design Beginners
+Photoshop Sheet Design for Architects
 PHP for Beginners: Build Complete Ecommerce Store
 PHP for Beginners: PDO Crash Course
 PHP for Beginners: The Complete PHP MySQL PDO Course
@@ -1134,6 +1139,7 @@ PHP with MySQL: Build Hotel Booking Management System
 PHP with MySQL: Build Real Estate Management System
 Pitch Deck Hero: Business Presentation and Communication
 Pizza E-Commerce in Python Django5 From Scratch Store 2025
+Playing with Binary
 PMP Certification Training- Exam Preparation Course 35 PDUs
 Portfolio Blog E-Commerce in Laravel 11 for Beginners
 Postgraduate Diploma in Capital Market (PGDCM)

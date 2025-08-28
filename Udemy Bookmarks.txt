@@ -303,6 +303,7 @@ Certified Chief AI Officer Program: AI Strategy & Governance
 Certified Chief Technology Officer(CTO) Mastery Program
 Certified Data Engineering Foundation Course
 Certified eCommerce Management Professional | CPD Accredited
+Certified Entrepreneur: Launch & Grow Your Business
 Certified Kubernetes Application Developer | CKAD Exam 2025
 Certified Loan Professional for Real Estate​
 Certified Negotiation Professional: Advanced Business Skills
@@ -331,8 +332,10 @@ ChatGPT to 10X Office Productivity & Personal Productivity
 ChatGPT, DeepSeek, Grok and 30+ More AI Marketing Assistants
 Chief Executive Officer (CEO) Program
 CI/CD with Jenkins and Docker
+CityEngine & Twinmotion Masterclass: Urban 3D Visualization
 Claude Pro Mastery: AI for Business, Marketing & Automation
 ClickBank Passive Income Stream: Beginners Guide!
+Cloud Computing & Hybrid Cloud vs On-Premise Solutions
 Code & Play: JavaScript Game Projects
 Code Java in 5 Hours: A Complete Beginner's Guide
 Code Reviews for Secure, Clean, and Scalable Code
@@ -438,6 +441,7 @@ Data Analysis Bootcamp: Master Data Science Skills
 Data Analyst: Professional Certificate in Data Analysis
 Data Analytics & Visualization: Using Excel and Python
 Data Analytics Masters 2025 - From Basics To Advanced
+Data Center Infrastructure & Design: Fire Fighting Design
 Data Engineering Bootcamp - Series 1
 Data Quality, Data Management & Data Governance Certificate
 Data Science Mastery 2025: Excel, Python & Tableau
@@ -453,6 +457,7 @@ Decoding Market Timing: An Insightful Introduction /R+PyCode
 Deep Dive into OpenAI Models: Master o3, o4-mini & Beyond
 Deep Learning Interview Preparation Course | 100 Q&A's
 Deep Learning Specialization: Advanced AI Architectures
+Deep Learning Specialization: Advanced AI, Hands on Lab
 Deep Reinforcement Learning using python 2025
 DeepSeek AI for Business: Build a Strategy with AI Insights
 Deepseek For Business
@@ -509,6 +514,7 @@ E-Commerce Website Masterclass: Master Shopify & WordPress
 Easy Generative AI ChatGPT Deepseek and +100 AI Tools
 Effective Cold Email Outreach: From Strategy to Execution
 Effective Email Marketing Tips and Guides For Beginners
+Email Marketing with Dekker: Cold Email Marketing & More!
 Email Marketing. Increase Sales With Email Marketing!
 Emotional Intelligence & Mindfulness for Leaders
 Emotional Intelligence in Leadership
@@ -753,6 +759,7 @@ Introduction to TDD in C#
 Introduction to Value Investing in Crypto
 Invest in Real Estate I Airbnb Hosting I Arbitrage Airbnb
 Investing & Options: From Basics to Mastery
+Investor Pitch Deck & Fundraising Certification: Win Startup
 InVision Studio for UI Designers
 IP Addressing and Subnetting - Hands-on Learning Approach
 ISO 14001:2015 Lead Auditor
@@ -806,6 +813,7 @@ Launch Your Dream Business & Creative Career
 Launching Your First Etsy Shop | A Beginner's Crash Course!
 Lead Generation & Business Development with Dekker
 Leadership for Successful Project Management and Delivery
+Leadership Mastery: Modern Leaders' Practical Training
 Leadership Skills: Servant Situational Leadership Style [EN]
 Leadership Through Tough Times
 Lean Manufacturing Academy: Certified Master Lean Course.
@@ -921,6 +929,7 @@ Master in Business Development and B2B Sales & Marketing
 Master in Business Strategy, Policy, Modeling & Planning
 Master in Data Analysis and Analytics
 Master in Data Science to become a Data Scientist
+Master in Digital Transformation Strategy & Digitalization
 Master in Digital, Internet and Social Media Marketing
 Master in End to End Solutions Design and Development
 Master in FMCG / FMCD Product and Brand Management
@@ -930,6 +939,7 @@ Master in Human Resources (HR) Management ( HRM) and SHRM
 Master in Marketing Strategy and Marketing Management
 Master in New Business Development and Entrepreneurship
 Master in Product Design, Development and Prototyping
+Master in Product Management (IT)
 Master in Sales and Sales Team Management
 Master in Software Architecture, Engineering and Development
 Master in Systems Thinking
@@ -1013,6 +1023,7 @@ Mastering React: React Crash Course with Mini Projects
 Mastering SAP Analytics Cloud (SAC) – Basics to Planning
 Mastering SEO With ChatGPT: Ultimate Beginner's Guide
 Mastering SEO: From Beginner to Pro in Digital Marketing
+Mastering ServiceNow Automated Test Framework(ATF) with ITSM
 Mastering Social Media in the Age of Gen AI
 Mastering Social Media Marketing and Management
 Mastering Social Media Marketing: A Comprehensive Guide
@@ -1089,6 +1100,7 @@ Online Courses - Learn Anything, On Your Schedule
 Only For Genius : +400 Tricks To Pass PCEP Certification
 Oracle Java SE 21 Developer Professional: 1Z0-830
 Passive Income: Pinterest Affiliate Marketing Masterclass
+PCNSE: Palo Alto Certified Network Security Engineer
 Pentesting 101: The Ultimate Hacking Guide Start To Finish
 Pentesting GenAI LLM models: Securing Large Language Models
 People Management People Manager Qualification SHRM PMQ [EN]
@@ -1172,11 +1184,14 @@ Professional Certificate in Coaching
 Professional Certificate in Customer Experience Management
 Professional Certificate in DevOps
 Professional Certificate in Marketing & Marketing Management
+Professional Certificate in Marketing and Advertising
 Professional Certificate in Operations Management
+Professional Certificate in Procurement and Purchasing
 Professional Certificate in Project and Process Management
 Professional Certificate in Project Management
 Professional Certificate in Risk Management
 Professional Certificate in SQL and SQL for Data Analysis
+Professional Certificate of Agile and Scrum Business Analyst
 Professional Certificate: Digital Business & Unit Economics
 Professional Certificate: Product Management and Development
 Professional Data Analysis Practice Test
@@ -1191,6 +1206,7 @@ Professional Diploma in Copywriting and Business Writing
 Professional Diploma in Customer Relationship Management CRM
 Professional Diploma in Digital Business Development
 Professional Diploma in Digitalization of Retail Banking
+Professional Diploma in Logistics Management
 Professional Diploma in Omnichannel Sales&Service Management
 Professional Diploma in Pricing Analysis and Management
 Professional Diploma in Program Management
@@ -1364,8 +1380,10 @@ SQL Masterclass: From Absolute Beginner to Developer
 SQLMap From Scratch for Ethical Hackers
 Start Career in CyberSecurity - The Ultimate Guide
 Start Your AI-Driven Video Content Agency: ChatGPT & InVideo
+Startup Launch Certification: Idea to MVP to Market
 Statistics and data literacy for non-statisticians
 Statistics and Hypothesis Testing for Data science
+Stock Market Complete Course (Basics To Adavance)
 Strategic Human Resource Management (SHRM) Certification
 Strategic Management & Business Planning – Certification
 Strategic Partnerships and Collaborations
@@ -1403,6 +1421,7 @@ The Complete ChatGPT Guide From Zero to Hero - 2025
 The Complete Contracts and Suppliers Management Master Class
 The Complete Da Vinci Resolve Course: Beginner to Filmmaker
 The Complete Digital Marketing Guide for Beginners
+The Complete Django Rest Framework Bootcamp [Latest]
 The Complete Google Drive Course - Mastering Google Drive
 The Complete Google Slides Masterclass - Master Google Slide
 The Complete Guide to Instagram Marketing for Businesses

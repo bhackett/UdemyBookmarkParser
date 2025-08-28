@@ -14,10 +14,13 @@
 20 Web Projects build 20 HTML, CSS and JavaScript projects
 2020 Complete Instagram Marketing Masterclass: Become a Pro
 2025 AI Mastery: Learn ChatGPT, Midjourney, Firefly, Gemini
+2025 C Programming Bootcamp - The Complete C Language Course
 2025 Complete Python Bootcamp from Zero to Hero in Python
 2025 Complete SQL Bootcamp from Zero to Hero in SQL
+2025 Master class on Data Science using Python A-Z for ML
 2025 Pandas Bootcamp | Data Analysis with Pandas Python3
 2025 Python Bootcamp | Learn Python Programming Masterclass
+2025 R Programming Bootcamp for Absolute Beginners
 30 Days of Angular: Build 30 Projects with Angular
 30 HTML CSS & JavaScript Projects A Beginner's Guide to JS
 300+ Python Exercises (Simple, Intermediate & Complex)
@@ -51,6 +54,7 @@ Adobe Photoshop CC Complete Mastery Course Basic to Advanced
 Adobe Photoshop CC For Absolute Beginner to Advanced
 Adobe Photoshop CC for Photo Editing and Image Retouching
 Adobe Photoshop Course from Basic to Advacned for Graphics
+Adobe Photoshop Essentials Master the Basics in Just 2 Hours
 Adobe Premiere Pro CC Masterclass for Video Editing
 Adobe Premiere Pro CC Video Editing Course Beginners To Pro
 Advance MS Excel VBA for Beginner to Advanced
@@ -123,6 +127,7 @@ AI for Technical Writers for Better Documentation
 AI for Work: Introduction to AI and Enhancing Productivity
 AI Foundations & Online Business Models | CPD Accredited
 AI Hero: A 12-Month Journey Taking You from Zero to Expert
+AI HR agents: no-code HR automation on ChatGPT and more [EN]
 AI HR Artificial Intelligence ChatGPT Human Resources [EN]
 AI Masteclass - ChatGPT Gemini Midjourney Stable Diffusion
 AI Mastery Bootcamp: Complete Guide with 1000 Projects
@@ -197,6 +202,9 @@ Basics of Email Marketing
 Batch Script Programming Crash Course (CMD)
 Be a Facebook Ads Pro with Dekker: Facebook Advertising
 Be an Airbnb Entrepreneur, Rental Arbitrage & Experiences
+Become A Certified JavaScript Developer- Practice Tests
+Become A Certified Node JS Developer: Practice Tests
+Become A Certified React Developer: Practice Tests
 Become a Hydra Expert: Advanced Brute Forcing Techniques
 Become a Power BI Expert: Data Analysis, DAX, and Dashboards
 Become a Successful Software Programming Developer/ Engineer
@@ -291,6 +299,7 @@ CapCut and Canva Masterclass Graphic Design With Video Edit
 Capcut Ninja: Mastering Video Editing Basics to Advanced
 Capcut Video Editing for Social Media Reels Shorts Videos
 CAPIE - Certified API Hacking Expert Course Content
+Care Certificate Standards 1-16 (Fully Accredited)
 Career Change | How to Get a 6-7 Figure Career
 CEO Playbook: Generative AI
 Certificate in Business & Operations Management Excellence
@@ -310,6 +319,11 @@ Certified Loan Professional for Real Estate​
 Certified Negotiation Professional: Advanced Business Skills
 Certified Operations Manager: From Strategy to Execution
 Certified Professional Data Science through Practice Test
+Certified Professional in C# Programming - Practice Test
+Certified Professional in C++ Programming - Practice Test
+Certified Professional in Data Science - Practice Test
+Certified Professional in PHP Language - Practice Test
+Certified Professional in Python Programming: Practice Test
 Certified Social Media Marketing: Fundamentals to Campaigns
 Certified Time Management: Productivity & Focus Mastery
 Change your Brain: Create an Excellent Life
@@ -337,12 +351,15 @@ CityEngine & Twinmotion Masterclass: Urban 3D Visualization
 Claude Pro Mastery: AI for Business, Marketing & Automation
 ClickBank Passive Income Stream: Beginners Guide!
 Cloud Computing & Hybrid Cloud vs On-Premise Solutions
+Cloud Computing Practice Test: Master Technologies
 Code & Play: JavaScript Game Projects
 Code Java in 5 Hours: A Complete Beginner's Guide
 Code Reviews for Secure, Clean, and Scalable Code
+CodeIgniter 4: Build Real Estate Management System
 Cold Email Mastery with AI: Ultimate Lead Generation System
 Communicating Effectively Using the POETIC Framework
 Communicating Through Disagreement Master Class
+Communication Skills: Acquire Effective Communication
 Competency Skill Model Development Approach and Library [EN]
 Complete Advanced Canva for Video Editing for Social Media
 Complete Arduino Course For Beginners
@@ -356,7 +373,7 @@ Complete Ethical Hacking Course 2025 : Go From Zero to Hero
 Complete Figma Course: Web & Mobile Projects from Scratch
 Complete Flutter Guide 2025: Build Android, iOS and Web apps
 Complete Freelance MBA 2025: Digitalize Service Businesses
-Complete Generative AI : Build Pro Web, Mobile & SaaS Apps
+Complete Generative AI: Build Pro Web, Mobile & SaaS Apps
 Complete Godot 4 –Build 3 Games (2D , 3D Adventure & Runner)
 Complete Google Classroom Course: Teaching Google Classroom
 Complete Google Slides Course - Create Stunning Slides
@@ -383,6 +400,7 @@ Comprehensive DaVinci Resolve With Color Grading Masterclass
 Comprehensive WordPress MCQs: From Basic to Advanced
 CompTIA A+ 220-1201 & 220-1202 Full Course and Test 2025
 CompTIA IT Fundamentals Exam FC0-U61 Simplified
+Computer Architecture & Algorithms Practice Test
 Computer Engineering Mastery: From Beginner to Expert!
 Computer Networking Basics for Desktop Support Technicians
 Computer Vision Fundamentals
@@ -452,6 +470,7 @@ Data Structures and OOP with C++ : CS104, CS105 Masterclass
 Data Structures: An Illustrative Introduction
 Data Visualization with Python and New Methods in Matplotlib
 Data-Driven Marketing
+Data-Driven Quality Assurance & Quality Control: Metrics/KPI
 Decision Making for Leaders and Managers
 Decision Making for Leaders Strategic, Ethical & High Stake
 Decoding Market Timing: An Insightful Introduction /R+PyCode
@@ -515,6 +534,7 @@ E-Commerce Website Masterclass: Master Shopify & WordPress
 Easy Generative AI ChatGPT Deepseek and +100 AI Tools
 Effective Cold Email Outreach: From Strategy to Execution
 Effective Email Marketing Tips and Guides For Beginners
+Elevate Your Leadership, Amplify Your Communication Skills
 Email Marketing with Dekker: Cold Email Marketing & More!
 Email Marketing. Increase Sales With Email Marketing!
 Emotional Intelligence & Mindfulness for Leaders
@@ -557,6 +577,7 @@ Excel Accounting 6–Adjusting Entries & Financial Statements
 Excel Data Management and Analysis for Basic to Expert Level
 Excel Data Mastery: Formulas, Functions, Charts, and Graphs
 Excel for Everyone: Essential Skills for Work and Life
+Excel for Financial Modelling
 Excel VBA for Beginner to Advanced
 Excellence in Management Case Analysis using AI Coaching
 Executive Certificate in Business Leadership
@@ -691,6 +712,7 @@ Graphic Design AI: Graphic Design With AI Complete Course
 Graphic Design Masterclass Bootcamp from Beginner to Expert
 Graphic Design Masterclass: Master Illustrator & Photoshop
 Graphic design: Designing 4 Advertisements in a series!
+GRI Reporting Standards Step by Step
 Grow Your Sales With Conversion Rate Optimization (CRO)
 Growth Hacking Certification for Startups: Scale Smarter
 GSAP Web Development and Animation Mastery
@@ -731,6 +753,7 @@ HTML to React Template Convert: Full Complete Guided Project
 HTML, CSS & Python – Web Development Certification Course
 HTML5 CSS3 JavaScript Bootstrap & jQuery Masterclass 5 in 1
 Human Resources Expert: Employee Relations and Engagement
+HVAC Design AI: HVAC Design Engineering Using ChatGPT (A-Z)
 HVAC Design Course - HVAC Engineering & Manual Duct Design
 HVAC Design MASTERY Course: HVAC Air Distribution Design A-Z
 HVAC Troubleshooting PRO: HVAC Maintenance & HVAC Diagnosis
@@ -751,6 +774,7 @@ Interior Design 103: Interior Design & Lighting Design (A-Z)
 Internal Auditing: Principles, Practices, and Applications
 Internet of Things (IoT) Online Course
 Interpersonal Dynamics Coaching – Conflict Management for HR
+Interview Mastery: Land the Offer
 Interviewing Skills: Conducting Job Interviews
 Introducing MLOps: From Model Development to Deployment (AI)
 Introduction to Algorithms and Data structures in C++
@@ -885,6 +909,7 @@ Logo Design Course in Adobe Illustrator: Bear Mascot Design
 Logo Design Essentials: Photoshop & Illustrator
 Lovable AI: Complete Guide for Vibe Coding
 Low-Level Computing for Computer Science & Engineering 2025+
+Machine Learning - Practice Test
 Machine Learning & AI Foundations Course
 Machine Learning & Artificial Intelligence Beginners Course
 Machine Learning and Deep Learning Projects in Python
@@ -908,6 +933,7 @@ Marketing Psychology & Neuromarketing with Dekker
 Marketing Strategy Development: Stand Out From the Crowd
 Master 11 Ad Platforms 2025: The Ultimate Paid Ads Course!
 Master 11 Ads Platforms in 1 Course 2025: Paid Advertising!
+Master Adobe Illustrator: Design Awesome Logos and Graphics
 Master Agile & Scrum Basics
 Master AI Tools in 2025: ChatGPT, Midjourney, Gemini Firefly
 Master AI Voice Agents: Automate Calls with AI and No-Code
@@ -915,6 +941,7 @@ Master Android by Building 3 Applications in Kotlin Language
 Master Ansible: Automation & DevOps with Real Projects 2025
 Master Any Language with ChatGPT: Boost Your Language Skills
 Master BI, SSIS, SSRS, SSAS & MDX - Zero to Hero
+Master Branding Superpowers—No Experience Needed!
 Master Business Analysis to become a Business Analyst
 Master Business English for Successful Networking Skills !
 Master C++ Programming From Beginner To Advance 2025 Edition
@@ -968,6 +995,7 @@ Master Productivity & Time Management for Your Goals
 Master Prompt Engineering With Real Life Examples
 Master Python Programming: The Complete Beginner to Advanced
 Master Python Web Scraping & Automation using BS4 & Selenium
+Master Python With NumPy For Data Science & Machine Learning
 Master Self Talk: Mindset, Affirmations, Visualize & Action
 Master SQL with BigQuery using AI tools - From Zero to Hero
 Master Viral 3D Short Form Content in Blender
@@ -1082,6 +1110,7 @@ Natural Light Fashion / Beauty Photography
 Network Mastery for Ethical Hackers
 Neuromarketing & AI: Influence Consumer Behavior
 New Manager Training: Emotional Intelligence(EQ) for Success
+Next.js Crash Course: Build a Full-Stack App in a Weekend
 NGINX MasterClass: NGINX Server & Custom Load Balancer
 Nifty & BankNifty: Options Future Trading for Weekly Income
 NMAP Mastery: Ultimate Guide to Network Scanning
@@ -1140,6 +1169,7 @@ PHP with MySQL: Build Real Estate Management System
 Pitch Deck Hero: Business Presentation and Communication
 Pizza E-Commerce in Python Django5 From Scratch Store 2025
 Playing with Binary
+Plumbing 104: Water Supply Systems Plumbing Design (A to Z)
 PMP Certification Training- Exam Preparation Course 35 PDUs
 Portfolio Blog E-Commerce in Laravel 11 for Beginners
 Postgraduate Diploma in Capital Market (PGDCM)
@@ -1186,6 +1216,7 @@ Product Vision and Feature Prioritization for Startups
 Productivity - Focus, Concentration & Performance Strategies
 Professional Adobe Photoshop CC Course With Advance Training
 Professional Agile Methodology Certification
+Professional Certificate in Career Coaching
 Professional Certificate in Coaching
 Professional Certificate in Customer Experience Management
 Professional Certificate in DevOps
@@ -1196,8 +1227,10 @@ Professional Certificate in Procurement and Purchasing
 Professional Certificate in Project and Process Management
 Professional Certificate in Project Management
 Professional Certificate in Risk Management
+Professional Certificate in SMM Social Media Marketing
 Professional Certificate in SQL and SQL for Data Analysis
 Professional Certificate of Agile and Scrum Business Analyst
+Professional Certificate: AI in Office Administration
 Professional Certificate: Digital Business & Unit Economics
 Professional Certificate: Product Management and Development
 Professional Data Analysis Practice Test
@@ -1223,10 +1256,12 @@ Professional Diploma in Unit Economics Management
 Professional Diploma in WEB3 NFT and NFT Smart Contracts
 Professional Diploma in WEB3 NFT Business
 Professional Diploma of Marketing Manager Business Partner
+Professional Diploma of Mortgage and Lending Broker
 Professional Diploma of Product Owner
 Professional Diploma of Real Estate Business Expert
 Professional Diploma: Customer Centricity & Design Thinking
 Professional Diploma: Government & Public Sector Technology
+Professional in advance PHP Language - Practice Test
 Professional Pytest Power: Practice Test Mastery
 Professional VMware VCP-DCV Exam
 Programming for Entrepreneurs - JavaScript (2013)
@@ -1273,6 +1308,7 @@ Python For Beginners Course In-Depth
 Python for Data analysis
 Python for Data Science
 Python for Data Science and Machine Learning
+Python for Data Science with Assignments
 Python for DevOps: Mastering Real-World Automation
 Python for Everybody | بايثون للجميع - الطريقة السهلة 2025
 Python for Everyone Master the Basics of Programming
@@ -1315,6 +1351,7 @@ Regular Expressions (Regex): Full Guide to Text Manipulation
 Relational Databases & SQL: Complete Guide for Developers
 Reputation Management: Take Control of Your Company's Image
 Research Methodologies in Strategy and Product Development
+Resilience Patterns in Microservice Architecture: Hands-On
 Responsive Web Design with CSS: A Complete CSS Guide
 Responsive Web Development: 4 courses in 1
 Rest API Testing (Automation) : Rest Assured PostMan
@@ -1338,6 +1375,7 @@ Save Time and Create Smarter: AI Tools for Non-Tech Creators
 Scrapy MASTERY Course - Become a Python Web Scraping MACHINE
 Scrum Master Certification
 Scrum Master Certification Prep
+Secure Coding in Spring Boot: Real-World Coding Guide
 Securing VoIP Systems
 Selenium in C# - Setup Simple Test Automation Framework
 Selenium WebDriver Java Basics + Advance Selenium Framework
@@ -1397,6 +1435,7 @@ Strategic Product Development: A Practical Guide to Research
 Supercourse - Ultimate Advanced Kubernetes Bootcamp
 Supercourse: Docker,Kubernetes, Argo Container Platform 2025
 Supporting Autism & Dyslexia in Early Childhood Education
+Surgical CPT Coding Specialist Certification Training
 Sustainable Manufacturing: Review & Emerging Advances
 SVG basics for beginners - concepts explained with examples
 T-Shirt Design Bootcamp: Photoshop, Illustrator & Canva
@@ -1408,6 +1447,7 @@ Tableau for HR: HR Analytics and Visualization with Tableau
 Tableau Prep Masterclass: Data Preparation, Analysis & ETL
 Tailwind CSS Mega Course: Basic to Advanced-Build 3 Projects
 Talent Acquisition: HR Planning, Recruiting and Onboarding
+TDD, CI/CD, Pair Programming & Other XP Practices for Devs
 TensorFlow: Basic to Advanced - 100 Projects in 100 Days
 The Advanced Diploma in Business Development Techniques
 The Advanced Diploma In Business Strategies: Strategize Well
@@ -1426,6 +1466,7 @@ The Complete CapCut Course with Social Media Video Editing
 The Complete ChatGPT Guide From Zero to Hero - 2025
 The Complete Contracts and Suppliers Management Master Class
 The Complete Da Vinci Resolve Course: Beginner to Filmmaker
+The Complete Data Analyst Bootcamp From Basics To Advanced
 The Complete Digital Marketing Guide for Beginners
 The Complete Django Rest Framework Bootcamp [Latest]
 The Complete Google Drive Course - Mastering Google Drive
@@ -1454,6 +1495,8 @@ The Definitive Course on Having an Airbnb Hosting Business
 The Definitive Course on Starting the Best Side Hustles
 The Definitive Course on Value Investing & Retiring Early
 The Fastest Path to Product Management
+The Git & Github Bootcamp: Master Git In 2025
+The Lazy Investor: Strategies That Take 8 Minutes a Month
 The Leadership Accelerator
 The Leadership Blueprint: Navigate Change and Inspire Teams
 The Leveraged Coach
@@ -1526,6 +1569,7 @@ Using Shopify and Facebook to Quick-Start an eCommerce Store
 Utilizing AI for Equity Research and Technical Analysis
 Vibe Coding Camp: Github Copilot, Cursor, Lovable, Windsurf
 Vibe Coding with Vercel v0: From Idea to MVP in a Weekend
+Video Editing (CapCut) Mastery - Become a Video Editing PRO
 Video Editing Course Premiere Pro: 18 Project In 1 Course
 Video Editing with ChatGPT Adobe Premiere Pro Canva CapCut
 Videoscribe Whiteboard Animations : MasterClass With Project

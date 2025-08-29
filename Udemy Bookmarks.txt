@@ -1,5 +1,3 @@
-"Create this image in under 1 hour in Blender and Lightroom"
-[2025] Business Plan Masterclass: Get Your Loan Approved
 1 Course For 11 Ads Platforms 2025: Learn Paid Advertising!
 10 POWER Tips for Entrepreneurs, Hustlers & Creatives
 100 C++ Coding Challenges: Practice, Improve, Master!
@@ -15,6 +13,7 @@
 20 Web Projects build 20 HTML, CSS and JavaScript projects
 2020 Complete Instagram Marketing Masterclass: Become a Pro
 2025 AI Mastery: Learn ChatGPT, Midjourney, Firefly, Gemini
+2025 Business Plan Masterclass: Get Your Loan Approved
 2025 C Programming Bootcamp - The Complete C Language Course
 2025 Complete Python Bootcamp from Zero to Hero in Python
 2025 Complete SQL Bootcamp from Zero to Hero in SQL
@@ -425,6 +424,7 @@ Create a Gross Profit Margin Calculator in Microsoft Excel
 Create a WordPress website with Hostinger!
 Create An Animated Landing Page by HTML, CSS and JavaScript
 Create Brochure, Flyer and Social Post in Photoshop
+Create this image in under 1 hour in Blender and Lightroom
 Create Viral AI Video Using ChatGPT For Affiliate Marketing
 Create Your Own Link-in-Bio Website with HTML & CSS
 Creating a Social Media App with C#, JS, ASP.NET and Azure

@@ -188,6 +188,7 @@ Autodesk Inventor: A Complete Step-by-Step Tutorial Guide
 Automated Machine Learning for Beginners (Google & Apple)
 Automatic Irrigation System with Arduino
 Automating Web/Mobile/API applications with TestProject
+AWS Certified Machine Learning Specialty - Hands-On + Exams
 AWS Certified SysOps Administrator Associate Hands-On + Exam
 Azure DevOps Pipelines from Zero to Hero
 B2B Lead Gen: Clay, LinkedIn, Cold Email and Reddit Playbook
@@ -302,6 +303,7 @@ CAPIE - Certified API Hacking Expert Course Content
 Care Certificate Standards 1-16 (Fully Accredited)
 Career Change | How to Get a 6-7 Figure Career
 CEO Playbook: Generative AI
+CEO Playbook: Generative AI for Business Transformation
 Certificate in Business & Operations Management Excellence
 Certificate in Public Relations and Communication Management
 Certificate of Leadership Excellence in Business Management
@@ -1116,6 +1118,7 @@ Nifty & BankNifty: Options Future Trading for Weekly Income
 NMAP Mastery: Ultimate Guide to Network Scanning
 No & Low Code AI Marketing Automation
 Nodejs: All You Need to Know with Practical Project
+Non-Disclosure Agreement NDA & Confidentiality for Beginners
 NotebookLM Mastery: Organize, Analyze, and Optimize with AI
 Number Theory (Unvisited applications in the Real World)
 NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning
@@ -1230,6 +1233,7 @@ Professional Certificate in Risk Management
 Professional Certificate in SMM Social Media Marketing
 Professional Certificate in SQL and SQL for Data Analysis
 Professional Certificate of Agile and Scrum Business Analyst
+Professional Certificate of IBM SPSS Statistics Expert
 Professional Certificate: AI in Office Administration
 Professional Certificate: Digital Business & Unit Economics
 Professional Certificate: Product Management and Development

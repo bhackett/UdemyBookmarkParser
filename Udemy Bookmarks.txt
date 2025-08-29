@@ -1,3 +1,4 @@
+"Create this image in under 1 hour in Blender and Lightroom"
 [2025] Business Plan Masterclass: Get Your Loan Approved
 1 Course For 11 Ads Platforms 2025: Learn Paid Advertising!
 10 POWER Tips for Entrepreneurs, Hustlers & Creatives
@@ -388,6 +389,7 @@ Complete MS Office Course Masterclass: Beginner to Advanced
 Complete Network Hacking Course 2025 - Beginner to Advanced
 Complete Node.js Bootcamp: From Basics to Advanced
 Complete Portfolio Website in Livewire 3 for Beginners
+Complete Python and Machine Learning in Financial Analysis
 Complete Python Bootcamp For Everyone From Zero to Hero 2025
 Complete Responsive Web Development Bootcamp: 4 Courses in 1
 Complete SEO Training Masterclass Course 2025: AI Seo
@@ -497,6 +499,7 @@ Design thinking
 Design Thinking Guide for Successful Professionals
 Design Tickets and Vouchers in Photoshop and Illustrator
 Design with Canva & AI: A Scalable Workflow for Creators
+Develop a reactive Java microservice with ReactiveJ
 Developing successful Professional Relationships
 DevOps MasterClass: Terraform Kubernetes Ansible Docker
 Dieting - Nutrition -Weight Loss Tips for Good Healthy Life
@@ -705,6 +708,7 @@ GoF Design Patterns - Complete Course with Java Examples
 Google Ads 2025: How to Drive Sales With PPC!
 Google AI Studio Bootcamp: Build Apps, Media & Master Gen AI
 Google Analytics 4 (GA4): Become a Web Analytics Specialist!
+Google Analytics Course Zero To Hero
 Google Certified Professional Machine Learning Engineer
 Google Cloud (GCP) MasterClass : GCP Live Projects
 Google Cloud Generative AI Leader Practice Exams 2025
@@ -1117,6 +1121,7 @@ Neuromarketing & AI: Influence Consumer Behavior
 New Manager Training: Emotional Intelligence(EQ) for Success
 Next.js Crash Course: Build a Full-Stack App in a Weekend
 NGINX MasterClass: NGINX Server & Custom Load Balancer
+Niche Marketing Mastery - A Winning System!
 Nifty & BankNifty: Options Future Trading for Weekly Income
 NMAP Mastery: Ultimate Guide to Network Scanning
 No & Low Code AI Marketing Automation
@@ -1208,6 +1213,7 @@ Presentation Skills Training: Great One on One Presentations
 Presentations using Gen AI
 Presentations with ChatGPT
 Primavera P6 for Civil Engineers – Masterclass in Planning
+Principles of Credit Evaluation and Fixed Income Instruments
 Prioritization Techniques for Decision Makers and Leaders
 ProBlogger's Free Ultimate Guide to Starting a Blog
 Product Analytics 101
@@ -1322,6 +1328,7 @@ Python for Everyone Master the Basics of Programming
 Python for Generative AI Apps : Building Intelligent Systems
 Python for Intermediate Learners & Pass The PCAP Exam
 Python for Scientific Research
+Python from Beginner to Intermediate in 30 min.
 Python from Zero-to-Hero (Beginner Level)
 Python Game Development Masterclass
 Python in Action: A Practical Course 50+ Real-World Projects
@@ -1435,6 +1442,7 @@ Startup Launch Certification: Idea to MVP to Market
 Statistics and data literacy for non-statisticians
 Statistics and Hypothesis Testing for Data science
 Stock Market Complete Course (Basics To Adavance)
+Storytelling for Financial Advisors and Investment Experts
 Strategic Human Resource Management (SHRM) Certification
 Strategic Management & Business Planning – Certification
 Strategic Partnerships and Collaborations

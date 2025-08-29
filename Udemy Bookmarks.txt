@@ -411,6 +411,7 @@ Consumer Products, Retail & QSR: A Complete Business Guide
 Containers 101
 Content Creation with ChatGPT: Master AI Writing in Minutes
 Conversion Rate Optimization CRO with Dekker
+Copula Generation Explained: Theory and Visualization
 Copywriting for Six Figures: Become a Copy Writing God!
 Copywriting Quick Start: Top FREE Writing Tools & Hacks
 Corporate Finance Financial Analysis and Decision-Making
@@ -423,6 +424,7 @@ Create a WordPress website with Hostinger!
 Create An Animated Landing Page by HTML, CSS and JavaScript
 Create Brochure, Flyer and Social Post in Photoshop
 Create Viral AI Video Using ChatGPT For Affiliate Marketing
+Create Your Own Link-in-Bio Website with HTML & CSS
 Creating a Social Media App with C#, JS, ASP.NET and Azure
 Creative Brilliance Project Based Professional Photoshop
 Creative Problem Solving, Logical & Critical Thinking Skill
@@ -448,6 +450,7 @@ Custom ChatGPT Publishing & AI Bootcamp Masterclass
 Customer Service with ChatGPT: AI-Driven Customer Care
 Customer Success with ChatGPT(AI): Innovate Client Relations
 Cybersecurity 101: Foundations for Absolute Beginners
+Cybersecurity in Finance
 Cybersecurity Mastery: Malware & Hacking Techniques
 Cybersecurity Solution Architecture 201 (2025 Edition)
 Cybersecurity Solution Architecture 301 (2025 Edition)
@@ -1536,6 +1539,7 @@ Todo App Project: Learn JavaScript, HTML & CSS Step by Step
 Top 100 Interesting Bugs Ethical Hacking & Bug Bounty Part 2
 Trading Options For Consistent Returns: Options Basics
 Train the Trainer: Corporate Learning & Facilitation [EN]
+Train the Trainer: How to Be a Trainer in the Training Biz
 Transform Your Photos with Adobe Lightroom & Photoshop
 Transform Your Self-Confidence
 Twitter absolute basics

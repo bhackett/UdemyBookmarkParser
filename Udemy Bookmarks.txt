@@ -104,6 +104,7 @@ AI & Quantum Computing Mastery: From Zero to Expert Bootcamp
 AI Agents Bootcamp: Build with LangChain, RAG & ANY LLM 2025
 AI Agents For Blockchain On Polygon - The Complete Course
 AI Agents for Everyone & AI Bootcamp with 100 Hands-on Labs
+AI Agents with Google ADK: The Practical Guide
 AI Agents with n8n: Create Automated Content for Your Site
 AI Audio Editing Masterclass: Adobe Podcast for Pro Audio
 AI Bible: From Beginner to Builder in 100 Projects
@@ -152,6 +153,7 @@ AI-Powered Email Marketing: A Complete Guide
 AI-Powered Microservices with Vibe Coding & Software 3.0
 AI-Powered Product Marketing and Market Research
 AI-Powered Project Management with ClickUp
+AI-Powered Sales & Marketing: Forecast Smarter with GenAI
 AI-Powered SEO Audit: Diagnose, Optimize and Rank Fast
 AI-Powered Tutorial Creation: Make Videos with Trupeer
 AI/ML Foundations for Absolute Beginners (AgenticAI + MLOps)
@@ -216,6 +218,7 @@ Beginners Bootcamp | HTML CSS Coding for Website Development
 Beginners Course on Power BI with Azure DevOps (ADO)
 Best Online Video Editor InVideo : 5+ Real World Projects
 Better virtual meetings
+Beyond Profit: ESG for a Sustainable Future
 Big Data Hadoop Course
 Big Employee Evaluation course: all types of Appraisal [EN]
 Bitcoin Breakthrough Secrets | Complete Cryptocurrency Guide
@@ -307,6 +310,7 @@ CEO Playbook: Generative AI for Business Transformation
 Certificate in Business & Operations Management Excellence
 Certificate in Public Relations and Communication Management
 Certificate of Leadership Excellence in Business Management
+Certified Agile & Scrum Mastery: Practical Projects & Tools
 Certified AI Engineering Masterclass: From Zero to AI Hero
 Certified AI Marketing Professional | AI Content Creation
 Certified Brand Strategy: Build, Position & Elevate Brand
@@ -423,6 +427,7 @@ Create a Complete Online Co-Op Multiplayer Game in Godot 4
 Create a Gross Profit Margin Calculator in Microsoft Excel
 Create a WordPress website with Hostinger!
 Create An Animated Landing Page by HTML, CSS and JavaScript
+Create And Sell Courses Fast with the Help of an AI Agent
 Create Brochure, Flyer and Social Post in Photoshop
 Create this image in under 1 hour in Blender and Lightroom
 Create Viral AI Video Using ChatGPT For Affiliate Marketing
@@ -550,11 +555,13 @@ Emotional Intelligence in Leadership
 Emotional Intelligence: Personal & Professional Excellence
 Empathy and Emotional Intelligence for Project Managers
 Employee CyberSecurity Awareness First Line of Defense
+Entrepreneurial Guide to AI Strategy
 Entrepreneurship and Business Essentials
 Entrepreneurship and Business Motivation
 Entrepreneurship: Ideas, Market Analysis, Competitors, Place
 ESP32 Email Alert Based on Sensors Reading
 Essential Adobe Lightroom Course for Photo Editing
+Essential After Effects: From Beginner to Motion Master
 Essential Amazon Affiliate Marketing for Beginners
 Essential Canva Course for Graphics Design Learn in 2 Hour
 Essential Canva for Graphics Design to Boost Productivity
@@ -639,6 +646,7 @@ Financial Accounting & Bookkeeping: Beginners to Advanced.
 Financial Analytics: Financial Analysis with Excel & Tableau
 Financial Services - Basics of Regulation & Compliance
 Financial Services - Funds Flow Optimization Concepts
+Financial Services - Overview of Central Banks
 Financial Services - Understanding Interest Rates
 Financial Statement Analysis – Ratio Analysis
 Financial Stewardship for Decision Makers and Leaders
@@ -703,6 +711,7 @@ Git tutorials for Beginners - Complete Course
 GIT, GitLab, GitHub Fundamentals for Software Developers
 Git: Become an Expert in Git & GitHub in 4 Hours
 GitHub Copilot for Beginners: AI Coding Crash Course
+Global Wealth Management: Account Opening, Onboarding, KYC
 Go Viral Without a Mic: ElevenLabs AI for Social Media
 GoF Design Patterns - Complete Course with Java Examples
 Google Ads 2025: How to Drive Sales With PPC!
@@ -804,6 +813,7 @@ ISO 9001 - Quality Management System Internal Auditor
 ISO 9001 Implementation in 13 Steps
 ISO 9001, ISO 14001 & ISO 45001 Internal Auditor
 IT & Information Security 101 - Cyber Security for Beginners
+IT & Technical Support Guide to Helpdesk, Desktop & Servers
 JARVIS AI 3.0 GPT3 Based AGI Virtual Assistant
 JARVIS AI 3.0 Mega Bootcamp : Beginner to Expert AI PRO
 Java And C++ Complete Course for Java And C++ Beginners
@@ -831,6 +841,7 @@ JavaScript Mastery From Basics to Advanced 2025
 Javascript Practicals Crash Course
 JavaScript Projects Course Build 20 Projects in 20 Days
 Jira Agile Mastery: Real-Life Examples for Scrum Masters
+Job Ready Databricks ML Associate Practice Exams
 Journalism: Conduct Great Media Interviews
 jQuery - Complete jQuery Course From Beginner To Advanced
 JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD
@@ -848,6 +859,7 @@ Laravel Essentials: User Roles & Permissions with Spatie
 Launch Your Dream Business & Creative Career
 Launching Your First Etsy Shop | A Beginner's Crash Course!
 Lead Generation & Business Development with Dekker
+Leadership & Team Building Certification: Practical Skills
 Leadership for Successful Project Management and Delivery
 Leadership Mastery: Modern Leaders' Practical Training
 Leadership Skills: Servant Situational Leadership Style [EN]
@@ -1007,6 +1019,7 @@ Master Python Web Scraping & Automation using BS4 & Selenium
 Master Python With NumPy For Data Science & Machine Learning
 Master Self Talk: Mindset, Affirmations, Visualize & Action
 Master SQL with BigQuery using AI tools - From Zero to Hero
+Master the Art of the Persuasive "PITCH DECK" Presentations
 Master Viral 3D Short Form Content in Blender
 Master Web & Mobile Design: Figma, UI/UX Essentials, +More
 Master Web Scraping in Python: Requests Scrapy Selenium & AI
@@ -1109,6 +1122,7 @@ Mistral AI Development: AI with Mistral, LangChain & Ollama
 Mobile App Design in Figma: From Concept to Prototype
 Mockplus RP - Kickstart Your Next Project with Templates
 Modern Vlogging Guide | How to Become a Successful Vlogger
+Monitoring and Maintaining Agent Performance
 MS Excel Automation | Excel Data Analysis with Python
 MS Excel Masterclass for Job Seekers Accounting Success
 MS Word - Microsoft Word Course Beginner to Expert
@@ -1119,6 +1133,7 @@ Natural Light Fashion / Beauty Photography
 Network Mastery for Ethical Hackers
 Neuromarketing & AI: Influence Consumer Behavior
 New Manager Training: Emotional Intelligence(EQ) for Success
+Next Level AI Skills with Google Gemini 2.5
 Next.js Crash Course: Build a Full-Stack App in a Weekend
 NGINX MasterClass: NGINX Server & Custom Load Balancer
 Niche Marketing Mastery - A Winning System!
@@ -1153,6 +1168,7 @@ Perplexity & No-Code : Créez une app Full Stack 100% (2025)
 Perplexity AI for Marketing & Business Automation
 Personal Branding System 3.0: UNIQUE Secret for YOUR Success
 Personal Branding with Dekker: Personal Brand Building Fame
+Personal Communication-Introduce Yourself With Confidence
 Personal Finance Course : Planning, Investing & Management
 Personal Productivity Enhancement with Generative AI
 pfSense: Network Security and Firewall Management
@@ -1443,6 +1459,7 @@ Statistics and data literacy for non-statisticians
 Statistics and Hypothesis Testing for Data science
 Stock Market Complete Course (Basics To Adavance)
 Storytelling for Financial Advisors and Investment Experts
+Storytelling with Data: Boosting B2B & B2C Sales
 Strategic Human Resource Management (SHRM) Certification
 Strategic Management & Business Planning – Certification
 Strategic Partnerships and Collaborations

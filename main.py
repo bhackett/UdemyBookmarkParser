@@ -48,7 +48,7 @@ def write_udemy_bookmarks(links, output_path):
                 continue
             if started and title.startswith("Course: "):
                 cleaned_title = title.replace("Course: ", "", 1).replace(" | Udemy", "")
-                out.write(cleaned_title + "\n")
+                out.write(f"{cleaned_title}\n")
                 count += 1
     return count
 

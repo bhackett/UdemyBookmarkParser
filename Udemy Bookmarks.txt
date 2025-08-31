@@ -101,6 +101,7 @@ Agile Kanban: Kanban for Software Development Teams
 Agile Mindset & Adaptability: The Complete Guide to XP
 Agile Project Management: Agile, Scrum, Kanban & XP
 Agile Trainer Certification
+AI (Artificial Intelligence) for Operational Excellence
 AI & Cyber Security Mastery 2025
 AI & Python Development Megaclass - 300+ Hands-on Projects
 AI & Quantum Computing Mastery: From Zero to Expert Bootcamp
@@ -409,6 +410,7 @@ Complete UI/UX Design with Canva - Design Smart Interface
 Complete Video Editing Course With Motion Graphics
 Complete Web Designing Course | Web-Development BootCamp
 Complete Windows 11 with Microsoft Copilot Masterclass
+Complete Windows Password Cracking Course | Practical Guide
 Complete Wordpress Website Developer Course
 Comprehensive DaVinci Resolve With Color Grading Masterclass
 Comprehensive WordPress MCQs: From Basic to Advanced
@@ -541,6 +543,7 @@ Discover Google Gemini for Marketing Success
 Discover Web Application Security Issues using Burp Proxy
 Discover Your Career Path & Land a Job You Love in 12 Weeks
 Disruptive Brand Building
+Disruptive Thinking
 Diversity Equity Inclusion Building Inclusive Workplaces
 Diversity, Inclusion & Unconscious Bias in the Workplace
 Django 5 - Build a Complete Website from Scratch to Deploy
@@ -735,6 +738,7 @@ Google Certified Professional Machine Learning Engineer
 Google Cloud (GCP) MasterClass : GCP Live Projects
 Google Cloud Generative AI Leader Practice Exams 2025
 Google Cloud Professional Cloud Architect: GCP Certification
+Google Cloud Professional Data Engineer 2025 PRACTICE EXAM
 Google Cloud Professional Data Engineer PDE - Mock Exams
 Google My Business. How to Master Powerful Tool for Company
 GOOGLE Professional Cloud Architect PRACTICE EXAM 2025
@@ -789,6 +793,7 @@ HVAC Design Course - HVAC Engineering & Manual Duct Design
 HVAC Design MASTERY Course: HVAC Air Distribution Design A-Z
 HVAC Troubleshooting PRO: HVAC Maintenance & HVAC Diagnosis
 Hybrid Work Superstar: Thrive in Remote & Office Like a Pro
+Immunotechnology Online Course
 Implement Data Governance Step by Step
 Implement GRC (Governance, Risk, Compliance) Step by Step
 Implementation of Occupational Health and Safety in Industry
@@ -817,6 +822,7 @@ Introduction to TDD in C#
 Introduction to Value Investing in Crypto
 Invest in Real Estate I Airbnb Hosting I Arbitrage Airbnb
 Investing & Options: From Basics to Mastery
+Investing in Africa - Key factors for Investors to consider
 Investor Pitch Deck & Fundraising Certification: Win Startup
 InVision Studio for UI Designers
 IP Addressing and Subnetting - Hands-on Learning Approach
@@ -854,6 +860,7 @@ JavaScript Master Course From Beginner to Expert Developer
 JavaScript Mastery From Basics to Advanced 2025
 Javascript Practicals Crash Course
 JavaScript Projects Course Build 20 Projects in 20 Days
+Jira Agile Fundamentals: Build Strong Agile Basics
 Jira Agile Mastery: Real-Life Examples for Scrum Masters
 Job Ready Databricks ML Associate Practice Exams
 Journalism: Conduct Great Media Interviews
@@ -873,6 +880,7 @@ Laravel Essentials: User Roles & Permissions with Spatie
 Launch Your Dream Business & Creative Career
 Launching Your First Etsy Shop | A Beginner's Crash Course!
 Lead Generation & Business Development with Dekker
+Leadership - Leading a Community
 Leadership & Team Building Certification: Practical Skills
 Leadership for Successful Project Management and Delivery
 Leadership Mastery: Modern Leaders' Practical Training
@@ -902,6 +910,7 @@ Learn Filmora for Video Editing Masterclass Course
 Learn Filmora Video Editing Masterclass From Beginner to Pro
 Learn Git Fast: Git & GitHub Version Control Guide
 Learn Github Actions for CI/CD DevOps Pipelines
+Learn Google Sheets and Microsoft Excel at Once from Basic
 Learn Graphic Design with Photoshop Illustrator and InDesign
 Learn How to Build an ECOMMERCE Website with Wordpress -
 Learn How to Manage Difficult Conversations in Business
@@ -929,6 +938,7 @@ Learning & Development with Generative AI
 Learning SOLIDWORKS : For Students, Engineers, and Designers
 Leonardo AI Bootcamp: Explore Visual Storytelling with AI
 Level 1 - Japanese Candlesticks Trading Mastery Program
+Life and Health Insurance Licensed Agent Practice Questions
 Link building. Build links that boost the site traffic!
 LinkedIn Marketing with Dekker: LinkedIn Ads, LinkedIn Leads
 Linux Command Line: From Zero to Hero
@@ -940,6 +950,7 @@ Live Master Email Security Spot Phishing & Spam Fast 2025
 Live Online Shop (Ecommerce) by ASP .NET Core 8 MVC and SQL
 Llama 4: AI Mastering Prompt Engineering
 LLM (Large Language Model) and Its Security [Hindi]
+Logic Mastery Brain Teasers & Critical Thinking Quiz
 Logo Design AI: Master Logo Design With AI (Logo Design A-Z)
 Logo Design Course in Adobe Illustrator: Bear Mascot Design
 Logo Design Essentials: Photoshop & Illustrator
@@ -1107,6 +1118,7 @@ Mastering Video Editing with AI ChatGPT for Content Creators
 Mastering Web Automation with WebdriverIO
 Mastering x86-64 Real Assembly Language from Zero | ASM+2025
 MCP for Leaders: Architecting Context-Driven AI
+Meal Planning & Diet Tips for Weight Loss
 Media Training for Beginners: Ace Your First News Interviews
 Medical Software Testing: Quality Assurance in Healthcare
 Mental Capacity Assessment Training for HCPs and Care Admins
@@ -1145,6 +1157,7 @@ MS Excel Masterclass for Job Seekers Accounting Success
 MS Word - Microsoft Word Course Beginner to Expert
 Myndset: Create unique and emotional ideas in 30 minutes
 N8N: AI Agent Creation Guide
+Nano Banana Masterclass: A Pro Guide to AI Image Mastery
 Natural Language Preprocessing Using spaCy
 Natural Light Fashion / Beauty Photography
 Network Mastery for Ethical Hackers
@@ -1174,6 +1187,7 @@ Online Business Mastery 2025: Sell Your Digital Products
 Online Course Creation: 10 Key Steps from Idea to Launch
 Online Courses - Learn Anything, On Your Schedule
 Only For Genius : +400 Tricks To Pass PCEP Certification
+Operations and Process Management Data Analysis & Analytics
 Oracle Java SE 21 Developer Professional: 1Z0-830
 Passive Income: Pinterest Affiliate Marketing Masterclass
 PCNSE: Palo Alto Certified Network Security Engineer
@@ -1383,8 +1397,10 @@ Python Web Dev Pro: Flask, Django, HTML, CSS & Bootstrap
 Python Web Developer Masterclass - Build 6 Website
 PyTorch Ultimate: From Basics to Cutting-Edge
 QA Metrics & KPIs: Testing, Defect Tracking & Automation
+QR Code Generator Using JavaScript
 Quantum Computing for Decision Makers: Executive Essentials
 Quantum Kitchen: Cooking Up Concepts in Quantum Computing
+QuickBooks Desktop Job Costing
 QuickBooks Desktop vs. Excel
 Quiz Marketing Power: Generate Leads for Marketing Success
 R for Researchers: From Basics to Advanced Analysis
@@ -1478,6 +1494,7 @@ Start Your AI-Driven Video Content Agency: ChatGPT & InVideo
 Startup Launch Certification: Idea to MVP to Market
 Statistics and data literacy for non-statisticians
 Statistics and Hypothesis Testing for Data science
+Stem Cell & Gene Therapy Online Course
 Stock Market Complete Course (Basics To Adavance)
 Storytelling for Financial Advisors and Investment Experts
 Storytelling with Data: Boosting B2B & B2C Sales
@@ -1531,6 +1548,7 @@ The Complete JavaScript Developer: Learn Modern JavaScript
 The Complete Jenkins DevOps CI/CD Pipeline Bootcamp
 The Complete Leadership Toolkit: From Conflict to Vision"
 The Complete Manager: Management Skills Guide for Beginners
+The Complete Microsoft Excel Data Analysis Basic to Advanced
 The Complete Microsoft Outlook MasterClass Mastering Outlook
 The Complete MySQL Bootcamp: Go from Beginner to Expert
 The Complete Project Management Master Class - PDUs Verified
@@ -1562,6 +1580,7 @@ The NIST Incident Management A Step-by-Step Guide
 The NIST Privacy Framework: A Step by Step Implementation
 The Obvious Secrets To Success No One Knows
 The Optimum Introduction to Ethical Hacking
+The PhD Toolkit: A Complete Masterclass For Ph.D. Students
 The Power of AI Avatars with HeyGen
 The Secret to Organic Traffic without SEO
 The Secrets of Data Analysis Using Microsoft Excel
@@ -1646,6 +1665,7 @@ Webflow for Beginners: Create Your First Website
 Webservices API Testing with Postman - Complete Guide
 Website Testing Masterclass: Real Test Cases for QA Success
 WhatsApp Marketing: Strategies for Business Success
+Whistleblower Protection And Reporting
 Why Should Any Business Care About The Millennials
 Windows Command Mastery for Ethical Hackers
 Windows Containers with Azure DevOps CI/CD Pipeline
@@ -1658,6 +1678,7 @@ Wordpress Elementor Course: Develop Site Without Coding
 WordPress page speed - get your site to load in < 2 seconds
 WordPress SEO Made Easy: Step-by-Step Guide for Beginners
 Wordpress Web Development for Absolute Beginner Zero to Hero
+Workplace Mental Health: Stress Management and Relaxation
 Workplace Productivity - Supporting Others Through Change
 Workplace Productivity-Coping with the Anxiety of Leadership
 Workplace Stress Management Strategies

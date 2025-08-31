@@ -299,6 +299,7 @@ C++ Training Crash Course for C++ Beginners
 C++ Tutorial for Complete Beginners
 Campus Placements & Corporate Relations Excellence
 Camtasia Studio Unleashed | Start Mastering Video Creation
+Cancer Biology Online Course
 Canva for Beginners: Create Stunning Visuals Design
 Canva Masterclass For Social Media And Content Creation
 Canva Masterclass: Social Media, T-Shirt, Video Edit, Motion
@@ -365,6 +366,7 @@ CI/CD with Jenkins and Docker
 CityEngine & Twinmotion Masterclass: Urban 3D Visualization
 Claude Pro Mastery: AI for Business, Marketing & Automation
 ClickBank Passive Income Stream: Beginners Guide!
+Clinical Documentation: Medical Scribe & Transcription 101
 Clinical Nutrition and Dietetics
 Cloud Computing & Hybrid Cloud vs On-Premise Solutions
 Cloud Computing Practice Test: Master Technologies
@@ -466,6 +468,7 @@ Currency Management for Small Businesses & Corporates
 Cursor AI for Beginners: AI Coding Crash Course
 Cursor Vibe Coding Pro: Build Any App from Scratch with AI
 Custom ChatGPT Publishing & AI Bootcamp Masterclass
+Customer Experience Management (CX): Frameworks & Strategies
 Customer Service with ChatGPT: AI-Driven Customer Care
 Customer Success with ChatGPT(AI): Innovate Client Relations
 Cybersecurity 101: Foundations for Absolute Beginners
@@ -538,6 +541,7 @@ Digital Marketing Tools for Freelancing - 2025
 Digital Platforms and Ecosystems Business and Partnership
 Digital Skills 101 for Seniors & Vulnerable Adults
 Digital Transformation & Customer Experience Management CXM
+Digital-First Marketing Management Professional Certificate
 Diploma in Aviation, Airlines, Air Transportation & Airports
 Diploma in Digital Transformation and Operational Excellence
 Diploma of Microsoft Dynamics 365 CRM Business Architect
@@ -655,6 +659,7 @@ Fast C# by Windows Forms - Create Windows Apps, SQL in C#
 Fast RESTful Api in ASP .Net Core 9 For Absolute beginners
 Fast Windows Presentation Foundation WPF for Beginners
 Feature Engineering For Machine Learning 101
+Feature Engineering Step by Step
 FigJam Mastery: From Visual Brainstorms to Product Launches
 Figma AI Workflow: From Vision to Version
 Figma Essential for User Interface and User Experience UI UX
@@ -704,6 +709,7 @@ Fundamentals of Successful Leadership - Leading with Impact
 Fundamentals of Supply Chain Management
 Gain 14 Years of Expertise in Building & Scaling Businesses
 GDPR and Data Protection: Data Privacy and DPO Masterclass
+Gems of Patanjali Yoga Sutras
 GenAI for Content Creation and Multimedia Campaigns
 Generative AI : Create an impressive AI Art 2025
 Generative AI and Artificial Intelligence (AI) for Leaders
@@ -766,6 +772,7 @@ HELM MasterClass: Kubernetes Packaging Manager
 High Intensity Interval Training (HIIT) for Beginners
 Home Automation projects with NodeMCU ESP8266 & iOS 11
 How to achieve a complete 'All Star' LinkedIn Profile
+How to Become a Thought Leader in Your Industry
 How to boost your online business using Facebook
 How To Build a Business That Fits Your Own Uniqueness
 How to Build a Free ECommerce Website to Sell Digital Downlo
@@ -805,6 +812,7 @@ Implement GRC (Governance, Risk, Compliance) Step by Step
 Implementation of Occupational Health and Safety in Industry
 Implementing Agile Marketing and Marketing Sprints
 Improving software development productivity
+Industrial Biotechnology Online Course
 Information Security Crash Course: Quick Steps to Safety
 Instagram Affiliate Marketing: Make Money on Instagram
 Instagram Marketing Bootcamp: From Zero to Hero
@@ -1054,11 +1062,13 @@ Master Python Web Scraping & Automation using BS4 & Selenium
 Master Python With NumPy For Data Science & Machine Learning
 Master Self Talk: Mindset, Affirmations, Visualize & Action
 Master SQL with BigQuery using AI tools - From Zero to Hero
+Master Strategy Deployment: From Vision to Execution
 Master the Art of the Persuasive "PITCH DECK" Presentations
 Master Viral 3D Short Form Content in Blender
 Master Web & Mobile Design: Figma, UI/UX Essentials, +More
 Master Web Scraping in Python: Requests Scrapy Selenium & AI
 Masterclass YouTube UI/UX Design: Create Stunning Design
+Mastering 5S: A Complete Guide with Hands-On Training
 Mastering Adobe Illustrator Projects: Build Your Portfolio
 Mastering Adobe Premiere Pro CC: From Beginner to Pro Editor
 Mastering Agentic Design Patterns with Hands-on Projects
@@ -1130,6 +1140,8 @@ MCP for Leaders: Architecting Context-Driven AI
 Meal Planning & Diet Tips for Weight Loss
 Media Training for Beginners: Ace Your First News Interviews
 Medical Coding
+Medical Nutrition for Chronic Diseases
+Medical Robotics Course
 Medical Software Testing: Quality Assurance in Healthcare
 Mental Capacity Assessment Training for HCPs and Care Admins
 Mental Health for the Workplace
@@ -1168,6 +1180,7 @@ MS Word - Microsoft Word Course Beginner to Expert
 Myndset: Create unique and emotional ideas in 30 minutes
 N8N: AI Agent Creation Guide
 Nano Banana Masterclass: A Pro Guide to AI Image Mastery
+Nanotechnology in Civil Engineering Course
 Natural Language Preprocessing Using spaCy
 Natural Light Fashion / Beauty Photography
 Network Mastery for Ethical Hackers
@@ -1238,6 +1251,7 @@ Pitch Deck Hero: Business Presentation and Communication
 Pizza E-Commerce in Python Django5 From Scratch Store 2025
 Playing with Binary
 Plumbing 104: Water Supply Systems Plumbing Design (A to Z)
+PMI Professional in Business Analysis (PMI-PBA) Simulator
 PMP Certification Training- Exam Preparation Course 35 PDUs
 Portfolio Blog E-Commerce in Laravel 11 for Beginners
 Postgraduate Diploma in Capital Market (PGDCM)
@@ -1427,6 +1441,7 @@ Real NMAP: Network Scanning, Recon & Exploit Discovery|CNMP+
 Real‑World Data Skills: Understand & Decide Better
 Regular Expressions (Regex): Full Guide to Text Manipulation
 Relational Databases & SQL: Complete Guide for Developers
+Remote Team Management: Productivity, Tools & Leadership
 Reputation Management: Take Control of Your Company's Image
 Research Methodologies in Strategy and Product Development
 Resilience Patterns in Microservice Architecture: Hands-On
@@ -1475,6 +1490,8 @@ Shopify Dropshipping Course 2025: Start Selling Online Today
 Side Hustle Mastery: 32 Ways to Earn Extra Income Online
 Simple Blogging Analytics Dashboard in Python
 SiteGround Migrator: Migra tu Web con WordPress a SiteGround
+Six Sigma: Lean Six Sigma White Belt (Accredited)
+Six Sigma: Lean Six Sigma Yellow Belt (Accredited)
 SketchUp VRay Layout From Beginner to Advanced Course
 Sketchup with Lumion/V-ray- Full course- Step by Step
 Skills-Based Organizations: Build Agile, Future-Ready Teams
@@ -1662,6 +1679,7 @@ Video Editing with ChatGPT Adobe Premiere Pro Canva CapCut
 Videoscribe Whiteboard Animations : MasterClass With Project
 Vigilant Leadership
 Visualization Techniques for Decision Makers and Leaders
+VMware vSphere 8.x Professional exam - 5 Practice Tests
 Vue.js Fast Crash Course
 Web Analytics with Similarweb: from Basic to PRO!
 Web Design Course For Beginner to Advanced

@@ -183,6 +183,7 @@ Architecting Software: Modeling, Viewpoints, C4
 Artificial General Intelligence (AGI)
 Artificial Intelligence and Generative AI: Volume 1
 Artificial Intelligence In Digital Marketing For Beginners
+Artificial Intelligence in Health Care
 Atlassian Confluence A-Z: Confluence for New Users
 Audio Proccessing |Audio Automation with Python Programming
 Audit - Financial Statement
@@ -219,6 +220,7 @@ Become a Product Manager: A Business Professional’s Guide
 Become a Successful Software Programming Developer/ Engineer
 Become Digital Electronics Master
 Become Experts in Python | By Exercises | By Projects
+Becoming a Chief Information Security Officer (CISO)
 Beginner Guide to Learn T-Shirt Design With Photoshop
 Beginner Tutorial on Solo Ads
 Beginners Bootcamp | HTML CSS Coding for Website Development
@@ -363,6 +365,7 @@ CI/CD with Jenkins and Docker
 CityEngine & Twinmotion Masterclass: Urban 3D Visualization
 Claude Pro Mastery: AI for Business, Marketing & Automation
 ClickBank Passive Income Stream: Beginners Guide!
+Clinical Nutrition and Dietetics
 Cloud Computing & Hybrid Cloud vs On-Premise Solutions
 Cloud Computing Practice Test: Master Technologies
 Code & Play: JavaScript Game Projects
@@ -481,6 +484,7 @@ Data Analysis Bootcamp: Master Data Science Skills
 Data Analyst: Professional Certificate in Data Analysis
 Data Analytics & Visualization: Using Excel and Python
 Data Analytics Masters 2025 - From Basics To Advanced
+Data Based Decision Making and Cost-Benefit Analysis (CBA)
 Data Center Infrastructure & Data Center Design Fundamentals
 Data Center Infrastructure & Design: Fire Fighting Design
 Data Engineering Bootcamp - Series 1
@@ -571,6 +575,7 @@ Entrepreneurial Guide to AI Strategy
 Entrepreneurship and Business Essentials
 Entrepreneurship and Business Motivation
 Entrepreneurship: Ideas, Market Analysis, Competitors, Place
+Equity Market Class
 ESP32 Email Alert Based on Sensors Reading
 Essential Adobe Lightroom Course for Photo Editing
 Essential After Effects: From Beginner to Motion Master
@@ -788,6 +793,7 @@ HTML to React Template Convert: Full Complete Guided Project
 HTML, CSS & Python – Web Development Certification Course
 HTML5 CSS3 JavaScript Bootstrap & jQuery Masterclass 5 in 1
 Human Resources Expert: Employee Relations and Engagement
+Human-Centered AI (HCAI)
 HVAC Design AI: HVAC Design Engineering Using ChatGPT (A-Z)
 HVAC Design Course - HVAC Engineering & Manual Duct Design
 HVAC Design MASTERY Course: HVAC Air Distribution Design A-Z
@@ -808,8 +814,10 @@ Intentional Leadership
 Interface Windows User Commands From The Beginner To Admin
 Interior Design 103: Interior Design & Lighting Design (A-Z)
 Internal Auditing: Principles, Practices, and Applications
+Internet Marketing Mastery: Get Customers, Boost Sales & AT
 Internet of Things (IoT) Online Course
 Interpersonal Dynamics Coaching – Conflict Management for HR
+Interview & CV Mastery: From CV to Job Offer
 Interview Mastery: Land the Offer
 Interviewing Skills: Conducting Job Interviews
 Introducing MLOps: From Model Development to Deployment (AI)
@@ -939,6 +947,7 @@ Learning SOLIDWORKS : For Students, Engineers, and Designers
 Leonardo AI Bootcamp: Explore Visual Storytelling with AI
 Level 1 - Japanese Candlesticks Trading Mastery Program
 Life and Health Insurance Licensed Agent Practice Questions
+Life Insurance Exam Prep: 300 Practice Questions
 Link building. Build links that boost the site traffic!
 LinkedIn Marketing with Dekker: LinkedIn Ads, LinkedIn Leads
 Linux Command Line: From Zero to Hero
@@ -1120,6 +1129,7 @@ Mastering x86-64 Real Assembly Language from Zero | ASM+2025
 MCP for Leaders: Architecting Context-Driven AI
 Meal Planning & Diet Tips for Weight Loss
 Media Training for Beginners: Ace Your First News Interviews
+Medical Coding
 Medical Software Testing: Quality Assurance in Healthcare
 Mental Capacity Assessment Training for HCPs and Care Admins
 Mental Health for the Workplace
@@ -1263,6 +1273,7 @@ Presentations with ChatGPT
 Primavera P6 for Civil Engineers – Masterclass in Planning
 Principles of Credit Evaluation and Fixed Income Instruments
 Prioritization Techniques for Decision Makers and Leaders
+Pro Photo Editing With Photoshop Illustrator Lightroom Canva
 ProBlogger's Free Ultimate Guide to Starting a Blog
 Product Analytics 101
 Product Development & Customer Experience Management Diploma
@@ -1325,6 +1336,7 @@ Professional Diploma of Real Estate Business Expert
 Professional Diploma: Customer Centricity & Design Thinking
 Professional Diploma: Government & Public Sector Technology
 Professional in advance PHP Language - Practice Test
+Professional Project Based Graphics Design & Video Editing
 Professional Pytest Power: Practice Test Mastery
 Professional VMware VCP-DCV Exam
 Programming for Entrepreneurs - JavaScript (2013)

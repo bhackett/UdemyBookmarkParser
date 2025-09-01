@@ -275,6 +275,7 @@ Build Product Management deliverable portfolio using ChatGPT
 Build your own SaaS: Complete Resume Builder Web App | 2025
 Build your Personal Website using ChatGPT
 Building a Neural Network from Zero
+Building Agentic AI and Autonomous Agent with Python & Groq
 Building Amazon Style Full Stack Microservices
 Building Basic AI Agents and Custom GPTs
 Building company budget: A Comprehensive Guide.
@@ -382,6 +383,7 @@ Competency Skill Model Development Approach and Library [EN]
 Complete Advanced Canva for Video Editing for Social Media
 Complete Arduino Course For Beginners
 Complete Basics of WordPress Web Design and Web Development
+Complete Canva Course in Kannada 2025 – Design Like a Pro
 Complete Capital Budgeting & Variance Analysis Master Class
 Complete Character Development Course Online 2025
 Complete Course in CATIA
@@ -434,6 +436,7 @@ Copula Generation Explained: Theory and Visualization
 Copywriting for Six Figures: Become a Copy Writing God!
 Copywriting Quick Start: Top FREE Writing Tools & Hacks
 Corporate Finance Financial Analysis and Decision-Making
+Cost Accounting: Fundamentals to Advanced with Excel Cases.
 Cracking Microsoft Office files Passwords | Ethical Hacking
 Craft Marketing Strategy in 5 Steps With Your AI-Copilot
 Crash Course For New Content & Affiliate Marketers
@@ -529,6 +532,7 @@ Digital Forensics Masterclass :Computer Forensics DFMC+ DFIR
 Digital Forensics Masterclass Complete Computer Forensics
 Digital Marketing & Social Media Strategy Free Course 2025
 Digital Marketing Agency: Grow Your Agency with Dekker
+Digital Marketing Automation: One Step Ahead of Competitors
 Digital Marketing B2B: Dekker's Ultimate Digital Marketing
 Digital Marketing Certification: SEO, Google Ads & Social
 Digital Marketing Diploma - 35 courses in 1 SEO, Ads & AI
@@ -987,6 +991,7 @@ Malware Analysis, Incident Response, Disaster Recovery & BCP
 Management Consulting Essential Training 2025
 Management Consulting Presentation Essential Training 2025
 Management Consulting Skills Mastery 2025
+Management Skills Certification: Become a Better Leader
 Managing project risks: safely
 Managing Social Anxiety in the Workplace
 Market Research & Competitive Analysis Executive Certificate
@@ -1139,6 +1144,7 @@ Mastering x86-64 Real Assembly Language from Zero | ASM+2025
 MCP for Leaders: Architecting Context-Driven AI
 Meal Planning & Diet Tips for Weight Loss
 Media Training for Beginners: Ace Your First News Interviews
+Media Training: The Media Interview Protection Plan
 Medical Coding
 Medical Nutrition for Chronic Diseases
 Medical Robotics Course
@@ -1251,6 +1257,7 @@ Pitch Deck Hero: Business Presentation and Communication
 Pizza E-Commerce in Python Django5 From Scratch Store 2025
 Playing with Binary
 Plumbing 104: Water Supply Systems Plumbing Design (A to Z)
+PMI Organizational Project Management (OPM)
 PMI Professional in Business Analysis (PMI-PBA) Simulator
 PMP Certification Training- Exam Preparation Course 35 PDUs
 Portfolio Blog E-Commerce in Laravel 11 for Beginners
@@ -1329,14 +1336,18 @@ Professional Diploma in Branding & Brand Management
 Professional Diploma in Business Models Development
 Professional Diploma in Business Project Management
 Professional Diploma in Copywriting and Business Writing
+Professional Diploma in CRM Platforms Management
 Professional Diploma in Customer Relationship Management CRM
 Professional Diploma in Digital Business Development
+Professional Diploma in Digital Products Management
 Professional Diploma in Digitalization of Retail Banking
 Professional Diploma in Logistics Management
+Professional Diploma in Office Administration Management
 Professional Diploma in Omnichannel Sales&Service Management
 Professional Diploma in Pricing Analysis and Management
 Professional Diploma in Procurement
 Professional Diploma in Program Management
+Professional Diploma in Project Management
 Professional Diploma in Public Relations and PR Management
 Professional Diploma in Social Media Marketing & Copywriting
 Professional Diploma in Technical Project Management
@@ -1487,6 +1498,7 @@ Shopify Course For Beginners: Creating A Store From Scratch
 Shopify Crash Course: Build Your Dropshipping & POD Store
 Shopify Dropshipping Business (Light): The Complete Course
 Shopify Dropshipping Course 2025: Start Selling Online Today
+Shopify: Your Essential Guide to E-commerce Success
 Side Hustle Mastery: 32 Ways to Earn Extra Income Online
 Simple Blogging Analytics Dashboard in Python
 SiteGround Migrator: Migra tu Web con WordPress a SiteGround
@@ -1502,6 +1514,7 @@ Social Media Graphics Design Masterclass with Adobe & Canva
 Social Media Marketing Course 2025: Meta Ads & Instagram ads
 Social Media Marketing MASTERY 2025 + 9 Social Ad Platforms!
 Social Media Mastery Comprehensive Social Media Success
+Social Media Video Editing with Canva: From Beginner to Pro
 Social Media Video Editing With Premiere Pro Canva Filmora
 Social Media Video Editing: Premiere Pro After Effect Canva
 Software architecture

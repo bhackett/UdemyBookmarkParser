@@ -8,6 +8,7 @@
 100+ Python Coding Practice Test [Questions & Answers] 2025
 11 Ads Platforms for E-Commerce Business 2025
 11 Ads Platforms in 1 Course 2025: Learn Paid Advertising!
+1400 AI Research Scientist Interview Questions Practice Test
 15 Effective Steps for Growing Business in Social Media
 17 Ways to Maximize Reddit for Your Business
 20 Web Projects build 20 HTML, CSS and JavaScript projects
@@ -94,6 +95,7 @@ Affiliate Marketing 101: Super Affiliate Marketing Challenge
 Affiliate Marketing For Beginners [WIX Website]
 After Effects Motion Graphics Mastery (For TikTok, IG & YT)
 Agentic AI Playbook: Complete Guide for Tech Leaders
+Agentic Coding: Full-Stack Java Apps with Cursor and Copilot
 Agile Basics for Developers, Scrum Masters & Product Owners
 Agile Coach Certification
 Agile HR Certification: Modern Human Resource Practices
@@ -470,6 +472,7 @@ CSS, Bootstrap ,JavaScript, Web Development Course
 CSS, Bootstrap, JavaScript And PHP Stack Complete Course
 CSS, JavaScript And Python Complete Course
 CSS, JavaScript,PHP And Python Programming All in One Course
+CSS3 Flexbox & Grid: 250 Practice Questions
 Currency Management for Small Businesses & Corporates
 Cursor AI for Beginners: AI Coding Crash Course
 Cursor Vibe Coding Pro: Build Any App from Scratch with AI
@@ -807,6 +810,7 @@ HTML 5,Python,Flask Framework All In One Complete Course
 HTML and CSS for Beginners From Basic to Advance
 HTML to React Template Convert: Full Complete Guided Project
 HTML, CSS & Python – Web Development Certification Course
+HTML5 & Semantic Markup: 280 Practice Questions
 HTML5 CSS3 JavaScript Bootstrap & jQuery Masterclass 5 in 1
 Human Resources Expert: Employee Relations and Engagement
 Human-Centered AI (HCAI)
@@ -1371,6 +1375,7 @@ Professional Project Based Graphics Design & Video Editing
 Professional Pytest Power: Practice Test Mastery
 Professional VMware VCP-DCV Exam
 Programming for Entrepreneurs - JavaScript (2013)
+Programming Fundamentals - The Basics with C# for Beginners
 Project Development Using JAVA for Beginners - 2023
 Project Management 101 (Project Management Certification)
 Project Management Fundamentals: A Beginner's Guide
@@ -1568,6 +1573,7 @@ Tailwind CSS Mega Course: Basic to Advanced-Build 3 Projects
 Talent Acquisition: HR Planning, Recruiting and Onboarding
 TDD, CI/CD, Pair Programming & Other XP Practices for Devs
 TensorFlow: Basic to Advanced - 100 Projects in 100 Days
+Terraform Simplified: Beginner to Pro
 The Advanced Diploma in Business Development Techniques
 The Advanced Diploma In Business Strategies: Strategize Well
 The AI-Powered Digital Marketing & Digital Advertising Guide

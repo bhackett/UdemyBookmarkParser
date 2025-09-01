@@ -37,6 +37,7 @@ Accessibility Testing – Foundation Course
 Account Based Marketing: B2B Marketing, Lead Generation
 Account-Based Marketing - ABM: Increase Your B2B Efficiency
 Account-Based Marketing (ABM) 2025: A Complete Guide
+Accounting basics, how to create financial statements easily
 Ace the Tableau Desktop Specialist Exam: Prep Guide & Tests
 Adobe After Effect Essential: Learn Video Motion Animation
 Adobe After Effects: From Beginner to Motion Master
@@ -159,6 +160,7 @@ AI-Powered Product Marketing and Market Research
 AI-Powered Project Management with ClickUp
 AI-Powered Sales & Marketing: Forecast Smarter with GenAI
 AI-Powered SEO Audit: Diagnose, Optimize and Rank Fast
+AI-Powered Social Media Marketing: ChatGPT and 100 AI Tools
 AI-Powered Tutorial Creation: Make Videos with Trupeer
 AI/ML Foundations for Absolute Beginners (AgenticAI + MLOps)
 Airbnb Hosting Entrepreneur I Rental Arbitrage I Experiences
@@ -313,6 +315,7 @@ CapCut & Google Veo 3: Cinematic AI Video Mastery
 CapCut and Canva Masterclass Graphic Design With Video Edit
 Capcut Ninja: Mastering Video Editing Basics to Advanced
 Capcut Video Editing for Social Media Reels Shorts Videos
+CapCut Video Editing for Viral Shorts: ChatGPT, Elevenlabs
 CAPIE - Certified API Hacking Expert Course Content
 Care Certificate Standards 1-16 (Fully Accredited)
 Career Change | How to Get a 6-7 Figure Career
@@ -572,6 +575,7 @@ Easy Generative AI ChatGPT Deepseek and +100 AI Tools
 Effective Cold Email Outreach: From Strategy to Execution
 Effective Email Marketing Tips and Guides For Beginners
 Elevate Your Leadership, Amplify Your Communication Skills
+Elite Nmap Hacking (Practice Tests Only) of Network Sec
 Email Marketing with Dekker: Cold Email Marketing & More!
 Email Marketing. Increase Sales With Email Marketing!
 Emotional Intelligence & Mindfulness for Leaders
@@ -651,6 +655,7 @@ Expert Certificate: Marketing Data Analysis & Data Analytics
 Exploring ArcGIS Pro: GIS Tutorials from Basics to Advanced
 Exploring AutoCAD Civil 3D-Tutorials from Basics to Advanced
 Extreme Programming (XP): Techniques for Agile Development
+Facebook Ads & Instagram Ads Course + Meta 410-101 + ChatGPT
 Facebook Ads 2025: Launch Your Best Advertising Campaign
 Facebook Ads For Small Business From Very Basic To Advance
 Facebook Ads Improvement: Make Your Ads Breathtaking
@@ -963,6 +968,7 @@ Life Insurance Exam Prep: 300 Practice Questions
 Link building. Build links that boost the site traffic!
 LinkedIn Marketing with Dekker: LinkedIn Ads, LinkedIn Leads
 Linux Command Line: From Zero to Hero
+Linux Mastery: From Beginner to Pro-Level Guru for All Users
 Linux Security & Network Hardening: Practical Defense
 Linux Security Basics for Beginners
 Lit Up Brand: Creating a Purposeful Brand

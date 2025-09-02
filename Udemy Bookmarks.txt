@@ -236,6 +236,8 @@ Better virtual meetings
 Beyond Profit: ESG for a Sustainable Future
 Big Data Hadoop Course
 Big Employee Evaluation course: all types of Appraisal [EN]
+BIM- Parametric Modeling for Revit Light Family- Masterclass
+BIM- Revit Parametric Design- Pattern-Based Modular Facade
 Bitcoin Breakthrough Secrets | Complete Cryptocurrency Guide
 Blender 4 Essentials: 3D Modeling, Texturing, and Rendering
 Blender Essential: From Beginner to 3D Masterclass
@@ -773,6 +775,7 @@ Graphic Design AI: Graphic Design With AI Complete Course
 Graphic Design Masterclass Bootcamp from Beginner to Expert
 Graphic Design Masterclass: Master Illustrator & Photoshop
 Graphic design: Designing 4 Advertisements in a series!
+Grasshopper Code: Transforming simple geometry
 GRI Reporting Standards Step by Step
 Grow Your Sales With Conversion Rate Optimization (CRO)
 Growth Hacking Certification for Startups: Scale Smarter
@@ -796,6 +799,7 @@ How to Create a Knowledge Base Application With Caspio
 How to Create a Membership Website and Sell Digital Products
 How To Create Automated Faceless YouTube Shorts and reels
 How to Create Your Perfect LinkedIn Outreach Campaign
+How to Design & Prototype in Adobe XD
 How To Do Keyword Research Like the SEO Pros
 How To Earn More as a Software Developer
 How to Generate Marketing Leads with AI
@@ -1296,6 +1300,7 @@ PowerBI Zero to Hero
 Powerful Instagram Sales Funnel to Grow Your Business
 PowerPoint Business Presentations with ChatGPT Generative AI
 PowerPoint Presentations: Deliver a Non-Boring Presentation
+PowerShell Regular Expressions: Regex Master Class
 Practical HTML, CSS, JS: 10 Real-World Projects for Practice
 Practical IoT Security and Penetration testing for Beginners
 Practical Kubernetes Guide
@@ -1438,6 +1443,7 @@ Python Game Development Masterclass
 Python in Action: A Practical Course 50+ Real-World Projects
 Python Machine Learning: From Beginner to Pro
 Python Mastery: 100 Days, 100 Projects
+Python Mastery: From "Novice to Ninja"
 Python Mobile App Development: Build 8+ Mobile Application
 Python One-Liners: Write Powerful Code in a Single Line
 Python Pro : The Complete Python Bootcamp for Noobs
@@ -1479,8 +1485,10 @@ Rest API Testing (Automation) : Rest Assured PostMan
 REST APIs Python Flask: Docker, AWS, Git and SQLAlchemy
 Revenue Cycle Management in Medical Billing (Accredited)
 Reverse Engineering Bootcamp:Ghidra, IDA, Linux, and x86_64
+Revit 2025_ Detailing, Sheets & Documentation_Project-Based
 Revit Made Easy: Your First Single-Storey House Project
 Revit Mass Modeling- From Basic to Advanced level
+Revit Parametric Facade Design
 Revolutionizing UML Design with ChatGPT and PlantUML
 Rewrite Your Reality: 10x Your Writing Skills Effortlessly
 Robot Framework | Step-by-Step for Beginners
@@ -1538,6 +1546,7 @@ Social Media Video Editing: Premiere Pro After Effect Canva
 Software architecture
 Software Architecture and Clean Code Design in OOP
 Software Testing Mastery 2025: QA Fundamentals to Expert
+SOLAR COURSE for Beginners of Solar Energy- 2024
 Solidworks Course for Beginners
 Solidworks: Learn by Following and Doing Short Projects
 Solopreneurship 101 Free Mini Course
@@ -1655,6 +1664,7 @@ The Ultimate Gamma Guide: Master AI Presentation Creation
 The Ultimate Google Tag Manager Course: Beginner to Advanced
 The Ultimate Guide to Become a World Traveler – Expert Tips!
 The Ultimate ISC2 Certified in Cybersecurity (CC) Course '25
+The Ultimate Perspective Drawing Course
 The Ultimate SQL Bootcamp : Go From Zero to Hero
 The Ultimate Unity Game Developer Course: From Zero to Hero
 Think Like a Machine: Computer Architecture Unlocked

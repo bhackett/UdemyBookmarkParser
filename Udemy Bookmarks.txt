@@ -94,6 +94,7 @@ Advanced Wordpress Course for Professionals
 Affiliate Marketing 101: Super Affiliate Marketing Challenge
 Affiliate Marketing For Beginners [WIX Website]
 After Effects Motion Graphics Mastery (For TikTok, IG & YT)
+Agentic AI for Product Owners: Strategy & Solutions
 Agentic AI Playbook: Complete Guide for Tech Leaders
 Agentic Coding: Full-Stack Java Apps with Cursor and Copilot
 Agile Basics for Developers, Scrum Masters & Product Owners
@@ -183,6 +184,7 @@ Anti-Corruption and Anti-Bribery Training for Professionals
 Anti-Money Laundering (AML) Essentials
 Apache Zeppelin - Big Data Visualization Tool
 Application Success: Master Project Writing with ChatGPT
+ArcGIS Level 1: GIS & ArcMap, ArcCatalog, ArcGlobe, ArcScene
 Architecting Software: Modeling, Viewpoints, C4
 Artificial General Intelligence (AGI)
 Artificial Intelligence and Generative AI: Volume 1
@@ -336,6 +338,7 @@ Certified Chief Technology Officer(CTO) Mastery Program
 Certified Data Engineering Foundation Course
 Certified eCommerce Management Professional | CPD Accredited
 Certified Entrepreneur: Launch & Grow Your Business
+Certified Generative AI Architect with Knowledge Graphs
 Certified Kubernetes Application Developer | CKAD Exam 2025
 Certified Loan Professional for Real Estate​
 Certified Negotiation Professional: Advanced Business Skills
@@ -803,6 +806,7 @@ How to Make Passive Income without experience or a Website
 How to speak to anyone & be fearless - in less than 55 min
 How to Transition to Product Management (And Succeed)
 HR Agile Project Management: Strategy, Speed, Results [EN]
+HR Masterclass: Complete Guide to Human Resource Management
 HR Trends 2025-2030: Future Strategies & Innovations [EN]
 HR with Odoo 17 AI-Powered Policies and Procedures Manual
 HTML 5 With Quizzes And Python 3 Complete Course
@@ -1025,6 +1029,7 @@ Master Business Analysis to become a Business Analyst
 Master Business English for Successful Networking Skills !
 Master C++ Programming From Beginner To Advance 2025 Edition
 Master Camtasia Complete Video Editing for Beginners to Pro
+Master Chess Tactics from 2700+ Elo GM
 Master Course of Microsoft Power Platform
 Master Cypress Automation: Scratch to Pro + Frameworks & API
 Master Data Analysis with Microsoft Excel & Power BI
@@ -1126,6 +1131,7 @@ Mastering LLM Evaluation: Build Reliable Scalable AI Systems
 Mastering Microsoft Excel A Comprehensive Guide to Boost You
 Mastering Microsoft Excel Data Analysis with Functions
 Mastering Microsoft Word: A Comprehensive Guide to Boost You
+Mastering Multithreading in C# and .NET
 Mastering MYSQL: Database Creation, Management & SQL Queries
 Mastering Network Security: Defending Against Cyber Threats
 Mastering Parenting: Raising Amazing and Responsible Kids
@@ -1473,6 +1479,7 @@ Rest API Testing (Automation) : Rest Assured PostMan
 REST APIs Python Flask: Docker, AWS, Git and SQLAlchemy
 Revenue Cycle Management in Medical Billing (Accredited)
 Reverse Engineering Bootcamp:Ghidra, IDA, Linux, and x86_64
+Revit Made Easy: Your First Single-Storey House Project
 Revit Mass Modeling- From Basic to Advanced level
 Revolutionizing UML Design with ChatGPT and PlantUML
 Rewrite Your Reality: 10x Your Writing Skills Effortlessly
@@ -1576,6 +1583,7 @@ TensorFlow: Basic to Advanced - 100 Projects in 100 Days
 Terraform Simplified: Beginner to Pro
 The Advanced Diploma in Business Development Techniques
 The Advanced Diploma In Business Strategies: Strategize Well
+The AI Playbook for CEOs, Business Owners and Leaders
 The AI-Powered Digital Marketing & Digital Advertising Guide
 The Art & Science of Accounting: From Basics to Forensics
 The Automated eBay Dropshipping Blueprint
@@ -1605,6 +1613,7 @@ The Complete Manager: Management Skills Guide for Beginners
 The Complete Microsoft Excel Data Analysis Basic to Advanced
 The Complete Microsoft Outlook MasterClass Mastering Outlook
 The Complete MySQL Bootcamp: Go from Beginner to Expert
+The Complete Playwright Bootcamp: Zero to Hero in eCommerce
 The Complete Project Management Master Class - PDUs Verified
 The Complete Python Bootcamp from Zero to Expert
 The Complete SAP Analytics Cloud Course 2025

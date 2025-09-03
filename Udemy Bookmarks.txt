@@ -27,6 +27,7 @@
 300+ Python Exercises (Simple, Intermediate & Complex)
 360 Degree Feedback Competency Assessment Full HR Guide [EN]
 39 Travel Tips to Make Your Travel More Enjoyable - 1 Hour
+4 Latest Practice Tests for any C++ Certification (2025)
 49 Weight Loss Tips You Can Stick To Forever - Be Thinner
 5 Step Blueprint For Author Platform Success
 50 Days of DSA Python Data Structures Algorithms LEETCODE
@@ -59,6 +60,7 @@ Adobe Photoshop CC for Photo Editing and Image Retouching
 Adobe Photoshop CC Fundamentals and Essentials Training
 Adobe Photoshop Course from Basic to Advacned for Graphics
 Adobe Photoshop Essentials Master the Basics in Just 2 Hours
+Adobe Premiere Pro CC Essential Video Editing Zero To Hero
 Adobe Premiere Pro CC Masterclass for Video Editing
 Adobe Premiere Pro CC Video Editing Course Beginners To Pro
 Advance MS Excel VBA for Beginner to Advanced
@@ -206,6 +208,7 @@ Automatic Irrigation System with Arduino
 Automating Web/Mobile/API applications with TestProject
 AWS Certified Machine Learning Specialty - Hands-On + Exams
 AWS Certified SysOps Administrator Associate Hands-On + Exam
+AWS Solutions Architect Professional (SAP-C02): 1500 Questio
 Azure DevOps Pipelines from Zero to Hero
 B2B Lead Gen: Clay, LinkedIn, Cold Email and Reddit Playbook
 B2B Lead Generation for Marketing
@@ -447,6 +450,7 @@ Conquer PMP Success - Essential Guide for Project Management
 Consumer Products, Retail & QSR: A Complete Business Guide
 Containers 101
 Content Creation with ChatGPT: Master AI Writing in Minutes
+control systems from zero to hero
 Conversion Rate Optimization CRO with Dekker
 Copula Generation Explained: Theory and Visualization
 Copywriting for Six Figures: Become a Copy Writing God!
@@ -734,6 +738,7 @@ Functional Programming + Lambdas, Method References, Streams
 Fundamental Equity, Share & Stocks Analysis to Build Wealth
 Fundamentals of Successful Leadership - Leading with Impact
 Fundamentals of Supply Chain Management
+Fundraising: Ask and Raise Contributions for Your Charity
 Gain 14 Years of Expertise in Building & Scaling Businesses
 GDPR and Data Protection: Data Privacy and DPO Masterclass
 Gems of Patanjali Yoga Sutras
@@ -795,6 +800,7 @@ Hands On React JS From Beginner to Expert
 Hands-On JavaScript, Crafting 10 Projects from Scratch
 Hands-On Linux Bootcamp: Real World Skills to Get You Hired
 Hands-On Python Machine Learning with Real World Projects
+Harness the Power of ESP32—No Code Required!
 Harnessing AI and Machine Learning for Geospatial Analysis
 HELM MasterClass: Kubernetes Packaging Manager
 High Intensity Interval Training (HIIT) for Beginners
@@ -861,9 +867,13 @@ Interview Mastery: Land the Offer
 Interviewing Skills: Conducting Job Interviews
 Introducing MLOps: From Model Development to Deployment (AI)
 Introduction to Algorithms and Data structures in C++
+Introduction to Calculus 1: Differentiation
+Introduction to Calculus 3: Infinite Sequences and Series
+Introduction to Electrostatics: Electric Force and Field
 Introduction to Financial Controls
 Introduction to Generative AI with Amazon Bedrock
 Introduction to Human Resources Management
+Introduction to Mechanics: Kinematics
 Introduction to Risk Management - Decision Makers & Leaders
 Introduction to TDD in C#
 Introduction to Value Investing in Crypto
@@ -1414,6 +1424,7 @@ Prometheus MasterClass: Infra Monitoring & Alerting
 Prompt Engineering PRO (AI Prompt Engineering FAST-TRACK)
 Public Speaking 101: Public Speaking COMPLETE Course (A-Z)
 Public Speaking and Presentation Skills Masterclass
+Public Speaking Emergency! Ace the Speech With Little Prep
 Public Speaking for College Students: Become a Great Speaker
 Public Speaking for High School Students: Speak Well Now
 Public Speaking: Give a Great Retirement Speech!
@@ -1461,6 +1472,7 @@ Python Mastery: 100 Days, 100 Projects
 Python Mastery: From "Novice to Ninja"
 Python Mobile App Development: Build 8+ Mobile Application
 Python One-Liners: Write Powerful Code in a Single Line
+Python PCAP: Certified Associate in Python Programming[2025]
 Python Pro : The Complete Python Bootcamp for Noobs
 Python Programming Complete Beginners Course Bootcamp 2025
 Python Programming Masterclass
@@ -1520,6 +1532,7 @@ Save Time and Create Smarter: AI Tools for Non-Tech Creators
 Scrapy MASTERY Course - Become a Python Web Scraping MACHINE
 Scrum Master Certification
 Scrum Master Certification Prep
+Scrum Master with AI: PSM Certification & Interview Guide
 Secure Coding in Spring Boot: Real-World Coding Guide
 Securing VoIP Systems
 Selenium in C# - Setup Simple Test Automation Framework
@@ -1719,6 +1732,7 @@ Uncle Rat's Web Application Hacking And Bug Bounty Guide
 Understand and Evaluate Digital Marketing Channels
 Understanding AI for Beginners: The Essential Guide to AI
 Understanding by Creating a Simple React App from Scratch
+Unit Economics & CRM: LTV, Churn, Retention Rates, Cohorts
 Unity Game Development: 2D & 3D Essentials for Beginners
 Unleash Your Creative Mind
 Unlimited AI Content Machine : Build Your Own AI Clone/Twin

@@ -219,6 +219,7 @@ Basics of Email Marketing
 Batch Script Programming Crash Course (CMD)
 Be a Facebook Ads Pro with Dekker: Facebook Advertising
 Be an Airbnb Entrepreneur, Rental Arbitrage & Experiences
+Become a Better Engineer by Understanding Product Management
 Become A Certified JavaScript Developer- Practice Tests
 Become A Certified Node JS Developer: Practice Tests
 Become A Certified React Developer: Practice Tests
@@ -346,6 +347,7 @@ Certified Generative AI Architect with Knowledge Graphs
 Certified Kubernetes Application Developer | CKAD Exam 2025
 Certified Loan Professional for Real Estate​
 Certified Negotiation Professional: Advanced Business Skills
+Certified NVIDIA AI Expert: End-to-End GPU-Accelerated AI
 Certified Operations Manager: From Strategy to Execution
 Certified Professional Data Science through Practice Test
 Certified Professional in C# Programming - Practice Test
@@ -421,9 +423,11 @@ Complete Portfolio Website in Livewire 3 for Beginners
 Complete Product Growth Guide: Metrics to Strategy
 Complete Python and Machine Learning in Financial Analysis
 Complete Python Bootcamp For Everyone From Zero to Hero 2025
+Complete React 19 Course 2025 : React JS For Beginners
 Complete Responsive Web Development Bootcamp: 4 Courses in 1
 Complete SEO Training Masterclass Course 2025: AI Seo
 Complete SQL & Relational Database Management System
+Complete Suno AI Course: Create & Monetize Music
 Complete TikTok Marketing Course for Business TikTok Habits
 Complete UI/UX Design with Canva - Design Smart Interface
 Complete Video Editing Course With Motion Graphics
@@ -593,6 +597,7 @@ Emotional Intelligence in Leadership
 Emotional Intelligence: Personal & Professional Excellence
 Empathy and Emotional Intelligence for Project Managers
 Employee CyberSecurity Awareness First Line of Defense
+Enhance Lightroom Editing with the Luminar Neo Plugin
 Entrepreneurial Guide to AI Strategy
 Entrepreneurship and Business Essentials
 Entrepreneurship and Business Motivation
@@ -615,6 +620,7 @@ Essentials of MARKETING.
 Essentials User Experience Design Adobe XD UI UX Design
 Ethereum Cryptocurrency Course for Beginners
 Ethical Hacking & Pentest Mastery: Complete Cybersecurity
+Ethical Hacking: Exploit Linux Server
 Ethical Hacking: Post-Exploitation
 Ethically Hack Human Mind: Social Engineering Fundamentals
 Ethically Hack the Planet
@@ -715,6 +721,7 @@ Front End Web Design using WYSIWYG Web Builder like a pro
 Frontend Web Development HTML5 CSS3 JavaScript and Bootstrap
 Full AI Course 2025: ChatGPT, Gemini, Midjourney, Firefly
 Full AI Mastery 2025: ChatGPT, Midjourney, Gemini, Firefly!
+Full AI Skills 2025: ChatGPT, Midjourney, Gemini, Firefly
 Full AI Tools 2025: ChatGPT, Midjourney, Gemini, Firefly
 Full Android Development Masterclass
 Full Digital Marketing Course 2025: SEO, Paid Ads, GTM, Web
@@ -865,6 +872,7 @@ Investing & Options: From Basics to Mastery
 Investing in Africa - Key factors for Investors to consider
 Investor Pitch Deck & Fundraising Certification: Win Startup
 InVision Studio for UI Designers
+iOS Development Kickstart: Craft Your First App With SwiftUI
 IP Addressing and Subnetting - Hands-on Learning Approach
 ISO 14001:2015 Lead Auditor
 ISO 27001 Implementation Steps
@@ -1669,6 +1677,7 @@ The Ultimate Animated Java Interview Questions Course
 The Ultimate Filmora Video Editing Course: Beginner to Pro
 The Ultimate Gamma Guide: Master AI Presentation Creation
 The Ultimate Google Tag Manager Course: Beginner to Advanced
+The Ultimate Guide for Beginners in Photo Editing
 The Ultimate Guide to Become a World Traveler – Expert Tips!
 The Ultimate ISC2 Certified in Cybersecurity (CC) Course '25
 The Ultimate Perspective Drawing Course
@@ -1676,6 +1685,7 @@ The Ultimate SQL Bootcamp : Go From Zero to Hero
 The Ultimate Unity Game Developer Course: From Zero to Hero
 Think Like a Machine: Computer Architecture Unlocked
 Thrive Themes: The Ultimate Step By Step Guide To Thrive
+Throughput Accounting: Boost Business Performance at No Cost
 TikTok Marketing. How to promote your business effectively!
 Time Management Accelerator: Turbocharge Your Productivity
 Time Management and Productivity Hacks: Do More, Stress Less
@@ -1697,6 +1707,7 @@ Ultimate Character Design Course with Adobe Illustrator
 Ultimate DevOps to MLOps Bootcamp - Build ML CI/CD Pipelines
 Ultimate DevSecOps Bootcamp by School of Devops
 Ultimate Docker Bootcamp for ML, GenAI and Agentic AI
+Ultimate EKS Bootcamp by School of Devops
 Ultimate Guide to Canva T-Shirt Design: Mastery in T-Shirt
 Ultimate Prompt Engineering & Gen AI Crash Course
 Ultimate SEO Course 2025: Beginner to Advanced SEO with AI

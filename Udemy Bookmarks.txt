@@ -68,6 +68,7 @@ Advanced Adobe After Effects: Become VFX & Motion Expert
 Advanced Adobe Premiere Pro Add Hollywood-level Effects
 Advanced AutoCAD 2025: Interactive Learning
 Advanced Capcut Course Learn Professional Video Editing
+Advanced Capcut: From Beginner to Motion Graphics Master
 Advanced Certificate in Business & Marketing Strategy
 Advanced Certificate in Customer Experience Management
 Advanced Diploma in Depression Counselling
@@ -209,6 +210,7 @@ Automatic Irrigation System with Arduino
 Automating Web/Mobile/API applications with TestProject
 AWS Certified Machine Learning Specialty - Hands-On + Exams
 AWS Certified SysOps Administrator Associate Hands-On + Exam
+AWS Essentials: A Complete Beginner's Guide
 AWS Solutions Architect Professional (SAP-C02): 1500 Questio
 Azure DevOps Pipelines from Zero to Hero
 B2B Lead Gen: Clay, LinkedIn, Cold Email and Reddit Playbook
@@ -327,6 +329,7 @@ Canva Social Media Video Editing MasterClass Edit Like a Pro
 Canva Zero to Hero: The COMPLETE Canva Beginners Course 2025
 CapCut & Google Veo 3: Cinematic AI Video Mastery
 CapCut and Canva Masterclass Graphic Design With Video Edit
+CapCut for Cinematography Motion Graphics and Social Media
 Capcut Ninja: Mastering Video Editing Basics to Advanced
 Capcut Video Editing for Social Media Reels Shorts Videos
 CapCut Video Editing for Viral Shorts: ChatGPT, Elevenlabs
@@ -536,6 +539,7 @@ Deep Learning Specialization: Advanced AI Architectures
 Deep Learning Specialization: Advanced AI, Hands on Lab
 Deep Reinforcement Learning using python 2025
 DeepSeek AI for Business: Build a Strategy with AI Insights
+DeepSeek AI: The Complete Guide to DeepSeek R1 in Business
 Deepseek For Business
 DeepSeek R1 AI: 25 Real World Projects in AI for Beginners
 Delivering the Perfect Construction Project
@@ -829,6 +833,7 @@ How to Make an Animated Movie
 How to make GIMP 2.8 look and act as Photoshop
 How to Make Passive Income without experience or a Website
 How to speak to anyone & be fearless - in less than 55 min
+How To Trade Meme Coin On Solana With Pump fun
 How to Transition to Product Management (And Succeed)
 HR Agile Project Management: Strategy, Speed, Results [EN]
 HR Masterclass: Complete Guide to Human Resource Management
@@ -848,6 +853,7 @@ HVAC Design Course - HVAC Engineering & Manual Duct Design
 HVAC Design MASTERY Course: HVAC Air Distribution Design A-Z
 HVAC Troubleshooting PRO: HVAC Maintenance & HVAC Diagnosis
 Hybrid Work Superstar: Thrive in Remote & Office Like a Pro
+I Am Consciousness : A Journey To Meet Your Higher Self!
 Immunotechnology Online Course
 Implement Data Governance Step by Step
 Implement GRC (Governance, Risk, Compliance) Step by Step
@@ -937,6 +943,7 @@ Kotler's Marketing Management Concepts, Cases and Questions
 Kubernetes & Cloud Native Security Associate Practice Exams
 Kubernetes for developers
 Kubernetes with HELM: Kubernetes for Absolute Beginners
+Land Analyst Job in Web3 VC – Intensive Course
 Laptop Lifestyle: Build Your Online Business in Just 8 Weeks
 Laravel and Postman Rest API Development: Beginner to Pro
 Laravel Essentials: User Roles & Permissions with Spatie
@@ -1161,6 +1168,7 @@ Mastering JavaScript and jQuery Course Beginners to Advanced
 Mastering LinkedIn Lead Generation & Social Selling
 Mastering Linux: The Complete Guide to Becoming a Linux Pro
 Mastering LLM Evaluation: Build Reliable Scalable AI Systems
+Mastering Meditation: Unlock Inner Calm and Presence
 Mastering Microsoft Excel A Comprehensive Guide to Boost You
 Mastering Microsoft Excel Data Analysis with Functions
 Mastering Microsoft Word: A Comprehensive Guide to Boost You
@@ -1249,6 +1257,7 @@ Niche Marketing Mastery - A Winning System!
 Nifty & BankNifty: Options Future Trading for Weekly Income
 NMAP Mastery: Ultimate Guide to Network Scanning
 No & Low Code AI Marketing Automation
+No Code Mastery : How To Create A Website Using AI Deepseek
 Nodejs: All You Need to Know with Practical Project
 Non-Disclosure Agreement NDA & Confidentiality for Beginners
 NotebookLM Mastery: Organize, Analyze, and Optimize with AI
@@ -1731,6 +1740,7 @@ Ultimate Docker Bootcamp for ML, GenAI and Agentic AI
 Ultimate EKS Bootcamp by School of Devops
 Ultimate Guide to Canva T-Shirt Design: Mastery in T-Shirt
 Ultimate Prompt Engineering & Gen AI Crash Course
+Ultimate Python Game Development 2025 : From Zero To Gamer
 Ultimate SEO Course 2025: Beginner to Advanced SEO with AI
 Ultimate Shopify Tutorial (2025): Step by Step For Beginners
 Ultimate YAML Course : YAML JSON JSONPath Zero - Master

@@ -1521,6 +1521,7 @@ Remote Team Management: Productivity, Tools & Leadership
 Reputation Management: Take Control of Your Company's Image
 Research Methodologies in Strategy and Product Development
 Resilience Patterns in Microservice Architecture: Hands-On
+Resilience4j with Spring Boot: Build Fault-Tolerant Systems
 Responsive Web Design with CSS: A Complete CSS Guide
 Responsive Web Development: 4 courses in 1
 Rest API Testing (Automation) : Rest Assured PostMan
@@ -1549,6 +1550,7 @@ Scrum Master Certification
 Scrum Master Certification Prep
 Scrum Master with AI: PSM Certification & Interview Guide
 Secure Coding in Spring Boot: Real-World Coding Guide
+Secure Coding: Security Best Practices in Web Applications
 Securing VoIP Systems
 Selenium in C# - Setup Simple Test Automation Framework
 Selenium WebDriver Java Basics + Advance Selenium Framework

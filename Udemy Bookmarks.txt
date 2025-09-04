@@ -72,6 +72,7 @@ Advanced Certificate in Business & Marketing Strategy
 Advanced Certificate in Customer Experience Management
 Advanced Diploma in Depression Counselling
 Advanced Diploma in Innovations and Digital Transformation
+Advanced Emotional Intelligence: Master Communicator
 Advanced Excel Course With Shortcuts Tips and Tricks for JOB
 Advanced Excel: Power Query, Power Pivot and DAX
 Advanced Instagram Marketing Blueprint Complete Guide
@@ -310,6 +311,7 @@ C# Mastering Course For Professionals
 C# Web Api Projesi
 C++ And PHP Complete Course for C++ and PHP Beginners
 C++ Code Like you are in MATRIX : Mastering C++ in 13 Hours
+C++ Complete Training Course for C++ Beginners All In One
 C++ Training Crash Course for C++ Beginners
 C++ Tutorial for Complete Beginners
 Campus Placements & Corporate Relations Excellence
@@ -333,6 +335,7 @@ Care Certificate Standards 1-16 (Fully Accredited)
 Career Change | How to Get a 6-7 Figure Career
 CEO Playbook: Generative AI
 CEO Playbook: Generative AI for Business Transformation
+Certificate Course in Prompt Engineering and Generative AI
 Certificate in Business & Operations Management Excellence
 Certificate in Public Relations and Communication Management
 Certificate of Leadership Excellence in Business Management
@@ -770,6 +773,7 @@ Git tutorials for Beginners - Complete Course
 GIT, GitLab, GitHub Fundamentals for Software Developers
 Git: Become an Expert in Git & GitHub in 4 Hours
 GitHub Copilot for Beginners: AI Coding Crash Course
+Global Career Development, Job Search, Interviewing Skills
 Global Wealth Management: Account Opening, Onboarding, KYC
 Go Viral Without a Mic: ElevenLabs AI for Social Media
 GoF Design Patterns - Complete Course with Java Examples
@@ -786,6 +790,7 @@ Google Cloud Professional Data Engineer PDE - Mock Exams
 Google My Business. How to Master Powerful Tool for Company
 GOOGLE Professional Cloud Architect PRACTICE EXAM 2025
 Google Sheets Bootcamp Boost Productivity Expert in Cloud
+Grafana Masterclass: Observability, Monitoring, Alerts
 Graphic Design AI: Graphic Design With AI Complete Course
 Graphic Design Masterclass Bootcamp from Beginner to Expert
 Graphic Design Masterclass: Master Illustrator & Photoshop
@@ -1144,6 +1149,7 @@ Mastering Email Deliverability: The Comprehensive Guide
 Mastering Excel 365: Your Complete Beginner’s Guide
 Mastering FinOps - Practitioner Certification + FREE BOOK
 Mastering Flutter Admob: Monetize Your Apps Like a Pro[2025]
+Mastering Google Calendar: Mastering Your Day
 Mastering Google Docs: A Comprehensive Google Docs Course
 Mastering Google NotebookLM: An AI-Powered Research Tool
 Mastering HTML5 and CSS3 (Part 1 - Beginner Level)
@@ -1588,6 +1594,7 @@ SQL Masterclass: From Absolute Beginner to Developer
 SQLMap From Scratch for Ethical Hackers
 Start Career in CyberSecurity - The Ultimate Guide
 Start Your AI-Driven Video Content Agency: ChatGPT & InVideo
+Start Your One-Person Freelance Agency
 Startup Launch Certification: Idea to MVP to Market
 Statistics and data literacy for non-statisticians
 Statistics and Hypothesis Testing for Data science
@@ -1652,6 +1659,7 @@ The Complete Microsoft Outlook MasterClass Mastering Outlook
 The Complete MySQL Bootcamp: Go from Beginner to Expert
 The Complete Playwright Bootcamp: Zero to Hero in eCommerce
 The Complete Project Management Master Class - PDUs Verified
+The Complete Public Speaking Course: Become a Great Speaker
 The Complete Python Bootcamp from Zero to Expert
 The Complete SAP Analytics Cloud Course 2025
 The Complete Social Media Marketing & AI Growth Mastery 2025

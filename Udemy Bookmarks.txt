@@ -109,7 +109,9 @@ Agile Kanban: Kanban for Software Development Teams
 Agile Mindset & Adaptability: The Complete Guide to XP
 Agile Project Management: Agile, Scrum, Kanban & XP
 Agile Trainer Certification
+AI (Artificial Intelligence) for HR/ HRM Excellence
 AI (Artificial Intelligence) for Operational Excellence
+AI (Artificial Intelligence) for Project Planning Excellence
 AI & Cyber Security Mastery 2025
 AI & Python Development Megaclass - 300+ Hands-on Projects
 AI & Quantum Computing Mastery: From Zero to Expert Bootcamp
@@ -134,6 +136,7 @@ AI for Cloud Infrastructure: Automating AWS with StationOps
 AI for CRM (Customer Relationship Management) Excellence
 AI for Data Driven Management Excellence
 AI for Image, Video and Music Creation
+AI for Marketing and Advertising Excellence
 AI for Problem Solving Excellence
 AI for Product Management & Innovation
 AI for Risk Management & Compliance Excellence
@@ -236,10 +239,12 @@ Become a Successful Software Programming Developer/ Engineer
 Become Digital Electronics Master
 Become Experts in Python | By Exercises | By Projects
 Becoming a Chief Information Security Officer (CISO)
+Becoming a Sought-After Coach
 Beginner Guide to Learn T-Shirt Design With Photoshop
 Beginner Tutorial on Solo Ads
 Beginners Bootcamp | HTML CSS Coding for Website Development
 Beginners Course on Power BI with Azure DevOps (ADO)
+Beginners JavaScript & React JS Class | Build Mini Projects
 Best Online Video Editor InVideo : 5+ Real World Projects
 Better virtual meetings
 Beyond Profit: ESG for a Sustainable Future
@@ -409,6 +414,7 @@ Complete Basics of WordPress Web Design and Web Development
 Complete Canva Course in Kannada 2025 – Design Like a Pro
 Complete Capital Budgeting & Variance Analysis Master Class
 Complete Character Development Course Online 2025
+Complete course in AutoCAD : 2D and 3D
 Complete Course in CATIA
 Complete Dart Guide: Basics to Advanced Programming 2025
 Complete Digital Marketing 2025: SEO, Ads, Social and More
@@ -535,6 +541,7 @@ Decision Making for Leaders Strategic, Ethical & High Stake
 Decoding Market Timing: An Insightful Introduction /R+PyCode
 Deep Dive into OpenAI Models: Master o3, o4-mini & Beyond
 Deep Learning Interview Preparation Course | 100 Q&A's
+Deep Learning into Python and Introduction to Data Science
 Deep Learning Specialization: Advanced AI Architectures
 Deep Learning Specialization: Advanced AI, Hands on Lab
 Deep Reinforcement Learning using python 2025
@@ -651,6 +658,7 @@ Excel Data Mastery: Formulas, Functions, Charts, and Graphs
 Excel for Everyone: Essential Skills for Work and Life
 Excel for Financial Modelling
 Excel VBA for Beginner to Advanced
+Excellence in Crisis Management & BCP
 Excellence in Leadership and Leadership Development Skills
 Excellence in Management Case Analysis using AI Coaching
 Executive Certificate in Business Leadership
@@ -702,6 +710,7 @@ Figma AI Workflow: From Vision to Version
 Figma Essential for User Interface and User Experience UI UX
 Figma for User Interface and User Experience UIUX Design
 Figma UI/UX Project Course: Design 4 Apps and Get Job Ready
+Finance and Accounting Fundamentals for non finance students
 Finance Essentials for Non-Financial Managers – Executive
 Financial Accounting & Bookkeeping: Beginners to Advanced.
 Financial Analytics: Financial Analysis with Excel & Tableau
@@ -825,6 +834,7 @@ How to Create a Membership Website and Sell Digital Products
 How To Create Automated Faceless YouTube Shorts and reels
 How to Create Your Perfect LinkedIn Outreach Campaign
 How to Design & Prototype in Adobe XD
+How to do Bookkeeping for Beginners (Theory & Practical)
 How To Do Keyword Research Like the SEO Pros
 How To Earn More as a Software Developer
 How to Generate Marketing Leads with AI
@@ -900,6 +910,7 @@ ISO 27001 Implementation Steps
 ISO 9001 - Quality Management System Internal Auditor
 ISO 9001 Implementation in 13 Steps
 ISO 9001, ISO 14001 & ISO 45001 Internal Auditor
+ISO/IEC 27033 Network Security
 IT & Information Security 101 - Cyber Security for Beginners
 IT & Technical Support Guide to Helpdesk, Desktop & Servers
 IT Deployments - Business & Technical Support Planning
@@ -919,6 +930,7 @@ Java OOP: Object Oriented Programming with Exercises - 2025
 Java Programming Masterclass - Beginner to Master
 Java Training Crash Course for Java Beginners
 Java: Complete Java Core for Beginners with Exercises - 2025
+JavaScript & React JS Codecamp: Build & Deploy 15+ Projects
 JavaScript 10 Projects in 10 Days Course for Beginners
 JavaScript 20 Projects In 20 Days HTML, CSS & JavaScript
 JavaScript And PHP Programming Complete Course
@@ -1076,11 +1088,13 @@ Master Effective Time Management for Personal Productivity
 Master Filmora: Editing, Motion Graphics, and Color Grading
 Master Full Stack Web Development With Games and Application
 Master Google ADK: Build Enterprise Multi-Agent AI Systems
+Master in Agile HR (Human Resources Management- HRM)
 Master in Artificial Intelligence (AI)
 Master in Brand Strategy and Brand Management
 Master in Business Administration (MBA)
 Master in Business Development and B2B Sales & Marketing
 Master in Business Strategy, Policy, Modeling & Planning
+Master in Construction Management
 Master in Data Analysis and Analytics
 Master in Data Science to become a Data Scientist
 Master in Digital Transformation Strategy & Digitalization
@@ -1089,7 +1103,9 @@ Master in End to End Solutions Design and Development
 Master in FMCG / FMCD Product and Brand Management
 Master in Game Theory
 Master in Generative AI (Artificial Intelligence) (Gen AI)
+Master in Healthcare Revenue Cycle Management (RCM)
 Master in Human Resources (HR) Management ( HRM) and SHRM
+Master in Integrated Operations & Supply Chain Management
 Master in Marketing Strategy and Marketing Management
 Master in New Business Development and Entrepreneurship
 Master in Product Design, Development and Prototyping
@@ -1242,6 +1258,7 @@ MS Excel Automation | Excel Data Analysis with Python
 MS Excel Masterclass for Job Seekers Accounting Success
 MS Word - Microsoft Word Course Beginner to Expert
 Myndset: Create unique and emotional ideas in 30 minutes
+MySQL, PostgreSQL and MongoDB Database Design Masterclass
 N8N: AI Agent Creation Guide
 Nano Banana Masterclass: A Pro Guide to AI Image Mastery
 Nanotechnology in Civil Engineering Course
@@ -1264,6 +1281,7 @@ NotebookLM Mastery: Organize, Analyze, and Optimize with AI
 Number Theory (Unvisited applications in the Real World)
 NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning
 Object Detection & Image Classification with Pytorch & SSD
+Object Oriented Programming - Basics to Advance (Java OOP)
 Object Oriented Programming in C++ & Interview Preparation
 Off Market Land Deals
 Offensive Security Pathway
@@ -1481,6 +1499,7 @@ Python for Scientific Research
 Python from Beginner to Intermediate in 30 min.
 Python from Zero-to-Hero (Beginner Level)
 Python Game Development Masterclass
+Python Image Processing, Face & Motion Detection with OpenCV
 Python in Action: A Practical Course 50+ Real-World Projects
 Python Machine Learning: From Beginner to Pro
 Python Mastery: 100 Days, 100 Projects
@@ -1503,6 +1522,7 @@ QR Code Generator Using JavaScript
 Quantum Computing for Decision Makers: Executive Essentials
 Quantum Kitchen: Cooking Up Concepts in Quantum Computing
 QuickBooks Desktop Job Costing
+QuickBooks Desktop Pro -Personal Bookkeeping-Accounting
 QuickBooks Desktop vs. Excel
 Quiz Marketing Power: Generate Leads for Marketing Success
 R for Researchers: From Basics to Advanced Analysis
@@ -1718,11 +1738,13 @@ The Ultimate Unity Game Developer Course: From Zero to Hero
 Think Like a Machine: Computer Architecture Unlocked
 Thrive Themes: The Ultimate Step By Step Guide To Thrive
 Throughput Accounting: Boost Business Performance at No Cost
+TikTok Ads Mastery - Strategic Blueprint for Paid Campaigns
 TikTok Marketing. How to promote your business effectively!
 Time Management Accelerator: Turbocharge Your Productivity
 Time Management and Productivity Hacks: Do More, Stress Less
 Time Management and Timeboxing in Business, Projects, Agile
 Time Management to Sell More And Earn more
+Time Value of Money & Capital Budgeting - Present Value
 Todo App Project: Learn JavaScript, HTML & CSS Step by Step
 Top 100 Interesting Bugs Ethical Hacking & Bug Bounty Part 2
 Trading Options For Consistent Returns: Options Basics

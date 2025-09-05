@@ -199,6 +199,7 @@ Artificial General Intelligence (AGI)
 Artificial Intelligence and Generative AI: Volume 1
 Artificial Intelligence In Digital Marketing For Beginners
 Artificial Intelligence in Health Care
+Artificial Intelligence in Pharmaceutical Industry
 Atlassian Confluence A-Z: Confluence for New Users
 Audio Proccessing |Audio Automation with Python Programming
 Audit - Financial Statement
@@ -238,6 +239,7 @@ Become a Product Manager: A Business Professional’s Guide
 Become a Successful Software Programming Developer/ Engineer
 Become Digital Electronics Master
 Become Experts in Python | By Exercises | By Projects
+Become HTML Hero
 Becoming a Chief Information Security Officer (CISO)
 Becoming a Sought-After Coach
 Beginner Guide to Learn T-Shirt Design With Photoshop
@@ -246,6 +248,7 @@ Beginners Bootcamp | HTML CSS Coding for Website Development
 Beginners Course on Power BI with Azure DevOps (ADO)
 Beginners JavaScript & React JS Class | Build Mini Projects
 Best Online Video Editor InVideo : 5+ Real World Projects
+Bestseller Udemy Course Creation Masterclass (Unofficial)
 Better virtual meetings
 Beyond Profit: ESG for a Sustainable Future
 Big Data Hadoop Course
@@ -304,6 +307,7 @@ Building company budget: A Comprehensive Guide.
 Burp Suite: In Depth Survival Guide
 Business Administration
 Business Analysis
+Business Analytics Online Class
 Business Data Analysis: The Strategic Thinking Masterclass
 Business Development, Sales & Marketing Professional Diploma
 Business Ideas Generation & Selection for successful startup
@@ -355,6 +359,7 @@ Certified Business Analyst: Tools, Techniques & Frameworks
 Certified Chief AI Officer Program: AI Strategy & Governance
 Certified Chief Technology Officer(CTO) Mastery Program
 Certified Data Engineering Foundation Course
+Certified E-Course Creation Masterclass for Coaches
 Certified eCommerce Management Professional | CPD Accredited
 Certified Entrepreneur: Launch & Grow Your Business
 Certified Generative AI Architect with Knowledge Graphs
@@ -428,6 +433,7 @@ Complete Google Classroom Course: Teaching Google Classroom
 Complete Google Slides Course - Create Stunning Slides
 Complete Graphics Design Bootcamp Beginner to Advanced
 Complete Graphics Design Course for Beginner to Advanced
+Complete Guide in HTML & CSS - Build Responsive Website
 Complete Linux Training Course to Get Your Ideal IT Job
 Complete Machine Learning With Real-World Deployment
 Complete Marketing Automation: AI Lead Generation Pro
@@ -458,6 +464,7 @@ Computer Architecture & Algorithms Practice Test
 Computer Engineering Mastery: From Beginner to Expert!
 Computer Networking Basics for Desktop Support Technicians
 Computer Vision Fundamentals
+Computer-Aided Drug Design and Discovery
 Conquer PMP Success - Essential Guide for Project Management
 Consumer Products, Retail & QSR: A Complete Business Guide
 Containers 101
@@ -528,6 +535,7 @@ Data Center Infrastructure & Data Center Design Fundamentals
 Data Center Infrastructure & Design: Fire Fighting Design
 Data Engineering Bootcamp - Series 1
 Data Quality, Data Management & Data Governance Certificate
+Data Science Career Path
 Data Science Mastery 2025: Excel, Python & Tableau
 Data Storytelling: Communicating Data Insights Effectively
 Data Structures Algorithm DSA | Python+Javascript LEETCODE
@@ -714,6 +722,7 @@ Finance and Accounting Fundamentals for non finance students
 Finance Essentials for Non-Financial Managers – Executive
 Financial Accounting & Bookkeeping: Beginners to Advanced.
 Financial Analytics: Financial Analysis with Excel & Tableau
+Financial Modeling Course
 Financial Services - Basics of Regulation & Compliance
 Financial Services - Funds Flow Optimization Concepts
 Financial Services - Overview of Central Banks
@@ -728,6 +737,8 @@ Flask Hacking Mastery
 Flexible Budgets, Standard Costs, & Variance Analysis
 Flutter Masterclass - Your Complete Guide to App Development
 FMEA Playbook - Your Path to Process Excellence
+Food Microbiology & Probiotics
+Forensic Science Course
 Foundations of Web Development: CSS, Bootstrap, JS, React
 Free SEO Course for Complete Beginners
 FREE TASTER: Negotiation - Understanding Personality Types
@@ -776,9 +787,11 @@ Generative AI Governance: Build a Responsible AI CoE
 Generative AI Masterclass: How to Supercharge 20+ AI Tools
 Generative AI Unleashed: Exploring Possibilities and Future
 Generative AI with Python
+Genetic Engineering and Its Applications
 GEO: Generating Engine Optimization. How to rank in ChatGPT
 Get Investment for Your Startup
 GetResponse Marketing Automation
+GIS Software & Application Online Course
 Git commands a complete workshop
 Git Crash Course: Version Control For Software Developers
 Git for Beginners
@@ -820,6 +833,7 @@ Hands-On Linux Bootcamp: Real World Skills to Get You Hired
 Hands-On Python Machine Learning with Real World Projects
 Harness the Power of ESP32—No Code Required!
 Harnessing AI and Machine Learning for Geospatial Analysis
+Hazard Analysis and Critical Control Points
 HELM MasterClass: Kubernetes Packaging Manager
 High Intensity Interval Training (HIIT) for Beginners
 Home Automation projects with NodeMCU ESP8266 & iOS 11
@@ -898,6 +912,7 @@ Introduction to Mechanics: Kinematics
 Introduction to Risk Management - Decision Makers & Leaders
 Introduction to TDD in C#
 Introduction to Value Investing in Crypto
+Introduction to Wastewater Treatment
 Invest in Real Estate I Airbnb Hosting I Arbitrage Airbnb
 Investing & Options: From Basics to Mastery
 Investing in Africa - Key factors for Investors to consider
@@ -1009,6 +1024,7 @@ Learn SQL in 3 Hours : A tutorial for fast learners
 Learn SQL with 100 Coding Exercises
 Learn T-Shirt Design with Adobe Illustrator
 Learn Terraform and prepare for Job Interview
+Learn the Python Programming Language
 Learn to Code In Google Sheets in Less Than 1 Hour
 Learn To Create A Website In 1 Hour. No Tech Skills Required
 Learn To Create AI Assistant (JARVIS) With Python
@@ -1045,6 +1061,7 @@ Machine Learning - Practice Test
 Machine Learning & AI Foundations Course
 Machine Learning & Artificial Intelligence Beginners Course
 Machine Learning and Deep Learning Projects in Python
+Machine Learning Online Course
 Machine Learning using Python
 Macroeconomic Analysis: Investigating Inflation Trend with R
 Make a WordPress Website with Elementor
@@ -1184,6 +1201,7 @@ Mastering JavaScript and jQuery Course Beginners to Advanced
 Mastering LinkedIn Lead Generation & Social Selling
 Mastering Linux: The Complete Guide to Becoming a Linux Pro
 Mastering LLM Evaluation: Build Reliable Scalable AI Systems
+Mastering Maxon Cinema 4D 2024: Complete Tutorial Series
 Mastering Meditation: Unlock Inner Calm and Presence
 Mastering Microsoft Excel A Comprehensive Guide to Boost You
 Mastering Microsoft Excel Data Analysis with Functions
@@ -1194,6 +1212,7 @@ Mastering Network Security: Defending Against Cyber Threats
 Mastering Parenting: Raising Amazing and Responsible Kids
 Mastering Power BI Report Design - Beginner to Advanced
 Mastering Power BI: From Basics to Advanced Analytic
+Mastering Power BI: From Data to Dashboard
 Mastering Python, Pandas, Numpy for Absolute Beginners
 Mastering PyTorch - 100 Days: 100 Projects Bootcamp Training
 Mastering React and Node.js Firebase Authentication [2025]
@@ -1219,6 +1238,7 @@ Meal Planning & Diet Tips for Weight Loss
 Media Training for Beginners: Ace Your First News Interviews
 Media Training: The Media Interview Protection Plan
 Medical Coding
+Medical Lab Technician
 Medical Nutrition for Chronic Diseases
 Medical Robotics Course
 Medical Software Testing: Quality Assurance in Healthcare
@@ -1296,6 +1316,7 @@ Only For Genius : +400 Tricks To Pass PCEP Certification
 Operations and Process Management Data Analysis & Analytics
 Oracle Java SE 21 Developer Professional: 1Z0-830
 Passive Income: Pinterest Affiliate Marketing Masterclass
+Patent Strategies in Biotechnology - Protecting Innovations
 PCNSE: Palo Alto Certified Network Security Engineer
 Pentesting 101: The Ultimate Hacking Guide Start To Finish
 Pentesting GenAI LLM models: Securing Large Language Models
@@ -1443,6 +1464,7 @@ Professional in advance PHP Language - Practice Test
 Professional Project Based Graphics Design & Video Editing
 Professional Pytest Power: Practice Test Mastery
 Professional VMware VCP-DCV Exam
+Programmable Logic Controllers
 Programming for Entrepreneurs - JavaScript (2013)
 Programming Fundamentals - The Basics with C# for Beginners
 Project Development Using JAVA for Beginners - 2023
@@ -1485,6 +1507,7 @@ Python Development First Steps and Development IDE Platform
 Python Django Full Stack Development: Build Modern Web App
 Python For Absolute Beginners & Pass The PCEP Exam
 Python for AI and Machine Learning: From Beginner to Pro
+Python for Beginners
 Python For Beginners Course In-Depth
 Python for Data analysis
 Python for Data Science
@@ -1611,6 +1634,7 @@ Social Media Video Editing: Premiere Pro After Effect Canva
 Software architecture
 Software Architecture and Clean Code Design in OOP
 Software Testing Mastery 2025: QA Fundamentals to Expert
+Solar Cell Technology
 SOLAR COURSE for Beginners of Solar Energy- 2024
 Solidworks Course for Beginners
 Solidworks: Learn by Following and Doing Short Projects
@@ -1820,6 +1844,7 @@ Windows Containers with Azure DevOps CI/CD Pipeline
 Windsurf for Beginners: AI Coding Crash Course
 Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts
 Wireshark Ninja | Mastering Real Wireshark & Packet Analysis
+Wordpress (No Coding), Domain not Needed, within 3.5 hours
 WordPress Backup And Restore Fundamentals
 Wordpress Easy Step By Step
 Wordpress Elementor Course: Develop Site Without Coding
@@ -1832,6 +1857,7 @@ Workplace Productivity-Coping with the Anxiety of Leadership
 Workplace Stress Management Strategies
 Write Article Content for SEO and Affiliate Marketing Course
 Write Every Day: Building a Consistent Writing Habit
+Writing and Publishing Your Bestselling Book
 Xamarin Forms for Android and iOS Native Development
 Xero vs. Excel
 Your AI Agent for outstanding Customer capture & Conversion

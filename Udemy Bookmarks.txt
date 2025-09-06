@@ -8,6 +8,7 @@
 100+ Python Coding Practice Test [Questions & Answers] 2025
 11 Ads Platforms for E-Commerce Business 2025
 11 Ads Platforms in 1 Course 2025: Learn Paid Advertising!
+13 Python Data Analytics Real World Hands-on Projects
 1400 AI Research Scientist Interview Questions Practice Test
 15 Effective Steps for Growing Business in Social Media
 17 Ways to Maximize Reddit for Your Business
@@ -44,6 +45,7 @@ Ace the Tableau Desktop Specialist Exam: Prep Guide & Tests
 Adobe After Effect Essential: Learn Video Motion Animation
 Adobe After Effects: From Beginner to Motion Master
 Adobe Animate: A Comprehensive Guide for Beginners to Pro
+Adobe Firefly Basic to Advance Training Course 2025
 Adobe Illustrator CC - Beginners to Advanced Training Course
 Adobe Illustrator CC 2020 MasterClass
 Adobe Illustrator CC for Learning Graphics Design
@@ -194,6 +196,7 @@ Anti-Money Laundering (AML) Essentials
 Apache Zeppelin - Big Data Visualization Tool
 Application Success: Master Project Writing with ChatGPT
 ArcGIS Level 1: GIS & ArcMap, ArcCatalog, ArcGlobe, ArcScene
+Architecting LLM Apps on Azure: RAG, Agents, and Real-World
 Architecting Software: Modeling, Viewpoints, C4
 Artificial General Intelligence (AGI)
 Artificial Intelligence and Generative AI: Volume 1
@@ -293,6 +296,7 @@ Build Complete CMS Blog in PHP MySQL Bootstrap & PDO
 Build Complete PHP MySQL Food Ordering Ecommerce Store
 Build Django Website From Scratch to Deploy in CPANEL 2025
 Build E-Commerce Cash On Delivery in Laravel 11 for Beginner
+BUILD IN PUBLIC Your Learning like a Film & Grow an Audience
 Build Instagram clone - React TailwindCSS Firebase
 Build No-code AI Agents / Apps [AI Automation Course 2025]
 Build Portfolio Website in Laravel 11 for Beginners
@@ -302,6 +306,7 @@ Build your Personal Website using ChatGPT
 Building a Neural Network from Zero
 Building Agentic AI and Autonomous Agent with Python & Groq
 Building Amazon Style Full Stack Microservices
+Building and Designing Food Delivery App with Dart & Flutter
 Building Basic AI Agents and Custom GPTs
 Building company budget: A Comprehensive Guide.
 Burp Suite: In Depth Survival Guide
@@ -319,6 +324,7 @@ C# Basics: From Zero to First Applications
 C# Mastering Course For Beginners
 C# Mastering Course For Intermediates
 C# Mastering Course For Professionals
+C# Test Automation Engineer - from Zero to Hero
 C# Web Api Projesi
 C++ And PHP Complete Course for C++ and PHP Beginners
 C++ Code Like you are in MATRIX : Mastering C++ in 13 Hours
@@ -342,6 +348,7 @@ CapCut for Cinematography Motion Graphics and Social Media
 Capcut Ninja: Mastering Video Editing Basics to Advanced
 Capcut Video Editing for Social Media Reels Shorts Videos
 CapCut Video Editing for Viral Shorts: ChatGPT, Elevenlabs
+Capcut With Canva Graphic Design Video Editing Masterclass
 CAPIE - Certified API Hacking Expert Course Content
 Care Certificate Standards 1-16 (Fully Accredited)
 Career Change | How to Get a 6-7 Figure Career
@@ -437,6 +444,7 @@ Complete Guide in HTML & CSS - Build Responsive Website
 Complete Linux Training Course to Get Your Ideal IT Job
 Complete Machine Learning With Real-World Deployment
 Complete Marketing Automation: AI Lead Generation Pro
+Complete MS Office and Web Design Development Course
 Complete MS Office Course Masterclass: Beginner to Advanced
 Complete Network Hacking Course 2025 - Beginner to Advanced
 Complete Node.js Bootcamp: From Basics to Advanced
@@ -479,6 +487,7 @@ Cost Accounting: Fundamentals to Advanced with Excel Cases.
 Cracking Microsoft Office files Passwords | Ethical Hacking
 Craft Marketing Strategy in 5 Steps With Your AI-Copilot
 Crash Course For New Content & Affiliate Marketers
+Crash Course: Copulas – Theory & Hands-On Project with R
 Create a Complete Online Co-Op Multiplayer Game in Godot 4
 Create a Gross Profit Margin Calculator in Microsoft Excel
 Create a WordPress website with Hostinger!
@@ -492,6 +501,7 @@ Creating a Social Media App with C#, JS, ASP.NET and Azure
 Creative Brilliance Project Based Professional Photoshop
 Creative Problem Solving, Logical & Critical Thinking Skill
 Creative UX/UI Design Mastery with Figma
+Creativity Masterclass: Become an Idea Machine & 10X Ideas
 Credit Risk Essentials: Analytics, AI & Underwriting
 Cryptocurrency Trading And Secrets | The Beginners Bootcamp
 Cryptography and System Security
@@ -766,6 +776,7 @@ Fundamental Equity, Share & Stocks Analysis to Build Wealth
 Fundamentals of Successful Leadership - Leading with Impact
 Fundamentals of Supply Chain Management
 Fundraising: Ask and Raise Contributions for Your Charity
+Future-Proofing Your Career in a Digital-First World
 Gain 14 Years of Expertise in Building & Scaling Businesses
 GDPR and Data Protection: Data Privacy and DPO Masterclass
 Gems of Patanjali Yoga Sutras
@@ -799,8 +810,10 @@ Git tutorials for Beginners - Complete Course
 GIT, GitLab, GitHub Fundamentals for Software Developers
 Git: Become an Expert in Git & GitHub in 4 Hours
 GitHub Copilot for Beginners: AI Coding Crash Course
+GitHub Foundations Practice Exams Certification
 Global Career Development, Job Search, Interviewing Skills
 Global Wealth Management: Account Opening, Onboarding, KYC
+Go Developer Interview Questions Practice Test MCQ | Quiz
 Go Viral Without a Mic: ElevenLabs AI for Social Media
 GoF Design Patterns - Complete Course with Java Examples
 Google Ads 2025: How to Drive Sales With PPC!
@@ -831,6 +844,7 @@ Hands On React JS From Beginner to Expert
 Hands-On JavaScript, Crafting 10 Projects from Scratch
 Hands-On Linux Bootcamp: Real World Skills to Get You Hired
 Hands-On Python Machine Learning with Real World Projects
+Hands-On R Programming: Build Real World Data Projects
 Harness the Power of ESP32—No Code Required!
 Harnessing AI and Machine Learning for Geospatial Analysis
 Hazard Analysis and Critical Control Points
@@ -1105,6 +1119,7 @@ Master Effective Time Management for Personal Productivity
 Master Filmora: Editing, Motion Graphics, and Color Grading
 Master Full Stack Web Development With Games and Application
 Master Google ADK: Build Enterprise Multi-Agent AI Systems
+Master Hypnotic Speech: Mesmerize everyone!
 Master in Agile HR (Human Resources Management- HRM)
 Master in Artificial Intelligence (AI)
 Master in Brand Strategy and Brand Management
@@ -1142,6 +1157,7 @@ Master Microsoft Power BI in 21 Days
 Master Microsoft POWER QUERY in POWER BI & Excel (ETL Tool)
 Master Mobile Photography: Learn to Edit Photos with iPhone
 Master MongoDB, the NOSQL leader with Clarity and Confidence
+Master MongoDB: Cloud Based NoSQL Database Management
 Master n8n AI Agents: Build & Sell AI Agents and Automations
 Master Notion: Build Your All-in-One Productivity System.
 Master of Essential C++ Programming Beginner to Advanced
@@ -1189,6 +1205,7 @@ Mastering Email Deliverability: The Comprehensive Guide
 Mastering Excel 365: Your Complete Beginner’s Guide
 Mastering FinOps - Practitioner Certification + FREE BOOK
 Mastering Flutter Admob: Monetize Your Apps Like a Pro[2025]
+Mastering Fourier Series and Infinite Series in Engineering
 Mastering Google Calendar: Mastering Your Day
 Mastering Google Docs: A Comprehensive Google Docs Course
 Mastering Google NotebookLM: An AI-Powered Research Tool
@@ -1253,6 +1270,7 @@ Microsoft Ads MasterClass 2025 - All Campaigns & Features!
 Microsoft Azure Administrator Complete Course: AZ-104 (2025)
 Microsoft Azure: Hands On Training: AZ-900 AZ-104 and AZ-305
 Microsoft Copilot for Data Analysis and Data Visualization
+Microsoft DP-203 Certified: Azure Data Engineer Associate
 Microsoft Excel - Beginner to Advance with Example
 Microsoft Excel and Google Sheets for Data Analysis
 Microsoft Excel Basic to Advanced: Ultimate Excel Mastery
@@ -1267,6 +1285,7 @@ Microsoft Power Platform: Power Apps/Power BI/Power Automate
 Microsoft PowerPoint: Blank Slide to Powerful Presentation
 Microsoft Word Essential Training: Master the Basics to Pro
 Midjourney & ChatGPT: Unleash AI for Unique Image Generation
+Midjourney AI Art: Prompts, Styles & Moodboards (Update)
 MidJourney for Architects 2025: Project-Based AI Design A-Z
 Midjourney For Beginners: Creating Visuals Using AI
 Mistral AI Development: AI with Mistral, LangChain & Ollama
@@ -1299,6 +1318,7 @@ Nodejs: All You Need to Know with Practical Project
 Non-Disclosure Agreement NDA & Confidentiality for Beginners
 NotebookLM Mastery: Organize, Analyze, and Optimize with AI
 Number Theory (Unvisited applications in the Real World)
+Numpy For Data Science - Real Time Coding Exercises
 NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning
 Object Detection & Image Classification with Pytorch & SSD
 Object Oriented Programming - Basics to Advance (Java OOP)
@@ -1352,6 +1372,7 @@ PHP with MySQL: Build Amazing Streaming Service
 PHP with MySQL: Build Complete Coffee Shop System
 PHP with MySQL: Build Hotel Booking Management System
 PHP with MySQL: Build Real Estate Management System
+Physics in Motion (Fundamentals of Physics)
 Pitch Deck Hero: Business Presentation and Communication
 Pizza E-Commerce in Python Django5 From Scratch Store 2025
 Playing with Binary
@@ -1510,6 +1531,7 @@ Python for AI and Machine Learning: From Beginner to Pro
 Python for Beginners
 Python For Beginners Course In-Depth
 Python for Data analysis
+Python For Data Science - Real Time Coding Exercises
 Python for Data Science
 Python for Data Science and Machine Learning
 Python for Data Science with Assignments
@@ -1532,6 +1554,7 @@ Python One-Liners: Write Powerful Code in a Single Line
 Python PCAP: Certified Associate in Python Programming[2025]
 Python Pro : The Complete Python Bootcamp for Noobs
 Python Programming Complete Beginners Course Bootcamp 2025
+Python Programming for Beginners: Learn Python from Scratch
 Python Programming Masterclass
 Python Programming Mastery: From Beginner to Expert
 Python Programming Mastery: From Beginner to Pro
@@ -1584,6 +1607,7 @@ Sales Analytics: Sales Analysis & Modeling using Excel
 Sales and Digital Marketing Management for Beginners [2025]
 Sales Funnel Mastery: Build, Design, and Automate Funnels
 Sales Operations the Complete Masterclass: 20 Courses in 1
+Salesforce Admin Training: From Basics to Advanced Skills
 SAP BusinessObjects Essential Training 2025
 SAP Commerce Cloud Bootcamp 2025
 SAT Digital | Math Master Course | 2025 Updated | Target 800
@@ -1640,6 +1664,7 @@ Solidworks Course for Beginners
 Solidworks: Learn by Following and Doing Short Projects
 Solopreneurship 101 Free Mini Course
 Spark Machine Learning Project (House Sale Price Prediction)
+Specflow BDD: C# Testing Mastery
 SPSS: A Practical Guide to Data Analysis
 SQL & Power BI Masterclass: From Data to Dashboard
 SQL Bootcamp with MySQL, PHP & Python : 5 Courses in 1
@@ -1716,6 +1741,7 @@ The Complete Playwright Bootcamp: Zero to Hero in eCommerce
 The Complete Project Management Master Class - PDUs Verified
 The Complete Public Speaking Course: Become a Great Speaker
 The Complete Python Bootcamp from Zero to Expert
+The Complete Python Developer: From Zero to Mastery
 The Complete SAP Analytics Cloud Course 2025
 The Complete Social Media Marketing & AI Growth Mastery 2025
 The Complete Social Media Video Editing Masterclass
@@ -1737,6 +1763,7 @@ The Leadership Blueprint: Navigate Change and Inspire Teams
 The Leveraged Coach
 The MERN Stack Blogify Project: Web Development
 The Modern JavaScript Course: Build Interactive Websites
+The Modern Physics Blueprint: Learn to Think Like Physicist
 The Motivation Blueprint – Daily Habits for Success & Focus
 The New Level. Millionaire`s vision. (Week 1) FREE
 The NIST Incident Management A Step-by-Step Guide
@@ -1822,6 +1849,7 @@ Videoscribe Whiteboard Animations : MasterClass With Project
 Vigilant Leadership
 Visualization Techniques for Decision Makers and Leaders
 VMware vSphere 8.x Professional exam - 5 Practice Tests
+Vue JS Developer Interview Questions Practice Test Quiz
 Vue.js Fast Crash Course
 Web Analytics with Similarweb: from Basic to PRO!
 Web Design Course For Beginner to Advanced
